@@ -4526,7 +4526,7 @@
                 "level": "None"
             },
             "back": {
-                "type": "story"
+                "type": "encounter"
             },
             "encounter_number": "25",
             "project_number": 118,
@@ -4542,7 +4542,7 @@
                 "level": "None"
             },
             "back": {
-                "type": "story"
+                "type": "encounter"
             },
             "encounter_number": "26",
             "project_number": 119,
@@ -4554,11 +4554,11 @@
             "name": "Evidence (Doctor Feng)",
             "front": {
                 "type": "story",
-                "text": "<blockquote>When you are finally able to access the video recordings for the infirmary, you discover the gnarly events that led up to the quarantine. Doctor Feng had been treating an unknown eye infection in one of the technicians. He was the first to notice that the corruption also took root in some of the medical tools used to examine the poor technician. This proved that whatever was corrupting the ship could also affect electronic equipment as well. Thankfully, the video was able to confirm that the doctor was wearing protective gear and has been hiding in a nearby compartment ever since.</blockquote>\nDoctor Feng is not an imitation.\nPut this card into play next to the act deck.\n<hr>\n<for> After you draw the Doctor Feng story asset from the scanning deck: Draw the top card of the encounter deck.\n<hr>",
+                "text": "<blockquote>When you are finally able to access the video recordings for the infirmary, you discover the gnarly events that led up to the quarantine. Doctor Feng had been treating an unknown eye infection in one of the technicians. He was the first to notice that the corruption also took root in some of the medical tools used to examine the poor technician. This proved that whatever was corrupting the ship could also affect electronic equipment as well. Thankfully, the video was able to confirm that the doctor was wearing protective gear and has been hiding in a nearby compartment ever since.</blockquote>\nDoctor Feng is not an imitation.\nPut this card into play next to the act deck.\n<hr>\n<for> After you draw the Doctor Feng story asset from the scanning deck: Draw the top card of the encounter deck.",
                 "level": "None"
             },
             "back": {
-                "type": "story"
+                "type": "encounter"
             },
             "encounter_number": "27",
             "project_number": 120,
@@ -4574,7 +4574,7 @@
                 "level": "None"
             },
             "back": {
-                "type": "story"
+                "type": "encounter"
             },
             "encounter_number": "28",
             "project_number": 121,
@@ -4590,7 +4590,7 @@
                 "level": "None"
             },
             "back": {
-                "type": "story"
+                "type": "encounter"
             },
             "encounter_number": "29",
             "project_number": 122,
@@ -4606,7 +4606,7 @@
                 "level": "None"
             },
             "back": {
-                "type": "story"
+                "type": "encounter"
             },
             "encounter_number": "30",
             "project_number": 123,
