@@ -2615,7 +2615,7 @@
             "front": {
                 "type": "treachery",
                 "traits": "Virtual. Hazard.",
-                "text": "<b>Revelation --</b> Test <willpower> (X). X is the shroud value of your location. For each point you fail by, discard a card from your play area and/or from your hand.",
+                "text": "<rev> Test <willpower> (X). X is the shroud value of your location. For each point you fail by, discard a card from your play area and/or from your hand.",
                 "level": "None",
                 "flavor_text": "You watch as they erode and turn to dust before your eyes.",
                 "illustration": "./images/corrosion Zdzislaw Beksinski.jpg",
@@ -2690,7 +2690,7 @@
             "front": {
                 "type": "treachery",
                 "traits": "Scheme.",
-                "text": "<b>Revelation --</b> Discard cards from the top of the encounter deck until 2 <t>Virtual</t> encounter cards are discarded. Choose and draw one of the discarded <t>Virtual</t> encounter cards. If it is a treachery, resolve its revelation effect an additional time. If it is an enemy, place this card under it as a swarm card.\n\n",
+                "text": "<rev> Discard cards from the top of the encounter deck until 2 <t>Virtual</t> encounter cards are discarded. Choose and draw one of the discarded <t>Virtual</t> encounter cards. If it is a treachery, resolve its revelation effect an additional time. If it is an enemy, place this card under it as a swarm card.\n\n",
                 "level": "None",
                 "illustration": "./images/twin suns - roshiel.jpg",
                 "illustration_scale": 1.72,
@@ -2739,7 +2739,7 @@
             "front": {
                 "type": "enemy",
                 "traits": "Monster.",
-                "text": "Hidden. Peril.\n<b>Revelation --</b> Secretly add this card to your hand.\n<for> At the end of the round, if there are no other investigators at your location and <name> is in your hand: Spawn it at your location.",
+                "text": "Hidden. Peril.\n<rev> Secretly add this card to your hand.\n<for> At the end of the round, if there are no other investigators at your location and <name> is in your hand: Spawn it at your location.",
                 "level": "None",
                 "health": "1",
                 "evade": "3",
@@ -2767,7 +2767,7 @@
             "front": {
                 "type": "treachery",
                 "traits": "Hazard.",
-                "text": "<b>Revelation --</b> Put this card into play in your threat area.\n<b>Forced --</b> After your location is switched with another location: Take 1 damage.\n<action>: Test <agility> (3) or <willpower> (3). If you succeed, discard Non-Euclidean Geometry.",
+                "text": "<rev> Put this card into play in your threat area.\n<b>Forced --</b> After your location is switched with another location: Take 1 damage.\n<action>: Test <agility> (3) or <willpower> (3). If you succeed, discard Non-Euclidean Geometry.",
                 "level": "None",
                 "illustration": "./images/geometry - mc escher.jpg",
                 "illustration_scale": 0.9354,
@@ -2847,7 +2847,7 @@
             "front": {
                 "type": "treachery",
                 "traits": "Nightmare. Terror.",
-                "text": "<b>Revelation --</b> Put Come Closer into play in your threat area.\n<b>Forced --</b> At the end of your turn, if you are not at The Boogeyman's location: Discard Come Closer and test <willpower> (3). If you fail, move one location towards The Boogeyman.",
+                "text": "<rev> Put Come Closer into play in your threat area.\n<b>Forced --</b> At the end of your turn, if you are not at The Boogeyman's location: Discard Come Closer and test <willpower> (3). If you fail, move one location towards The Boogeyman.",
                 "level": "None",
                 "flavor_text": "<font \"./fonts/Chiller.ttf\">WANT A BALLOON?",
                 "illustration": "./images/pennywise jeff Kritian.jpg",
@@ -2871,7 +2871,7 @@
             "front": {
                 "type": "treachery",
                 "traits": "Nightmare. Terror. ",
-                "text": "Hidden. Peril.\n<b>Revelation --</b> Secretly add this card to your hand.\n<for> At the end of the enemy phase, if The Boogeyman is at your location or an adjacent location, search your discard pile for a weakness and draw it. Then, discard this card.",
+                "text": "Hidden. Peril.\n<rev> Secretly add this card to your hand.\n<for> At the end of the enemy phase, if The Boogeyman is at your location or an adjacent location, search your discard pile for a weakness and draw it. Then, discard this card.",
                 "level": "None",
                 "illustration": "./images/clown - silentivo.jpg",
                 "illustration_scale": 1.842,
@@ -2894,7 +2894,7 @@
             "front": {
                 "type": "treachery",
                 "traits": "Virtual. Nightmare.",
-                "text": "Peril.\n<b>Revelation --</b> Test <willpower> or <agility> (4). If you fail, either move The Boogeyman to your current location, or The Boogeyman immediately attacks you. <i>(from any location)</i>",
+                "text": "Peril.\n<rev> Test <willpower> or <agility> (4). If you fail, either move The Boogeyman to your current location, or The Boogeyman immediately attacks you. <i>(from any location)</i>",
                 "level": "None",
                 "flavor_text": "<font \"./fonts/boneChiller.ttf\">DON'T LOOK BEHIND",
                 "illustration": "./images/jack - mark-fredrickson.jpg",
@@ -9399,7 +9399,7 @@
             "enumerated": "manual"
         },
         {
-            "name": "A Webb Of Discovery",
+            "name": "A Webb of Discovery",
             "front": {
                 "type": "story",
                 "text": "<blockquote>You come across a pristine hexagonal mirror - an old telescope that was used to observe the edges of the universe as we know it.\n\"The James Webb Space Telescope (JWST) is a space telescope designed primarily to conduct infrared astronomy. As the largest optical telescope in space, its high infrared resolution and sensitivity allow it to view objects too early, distant, or faint for the Hubble Space Telescope. This is expected to enable a broad range of investigations across the fields of astronomy and cosmology, such as observation of the first stars and the formation of the first galaxies, and detailed atmospheric characterization of potentially habitable exoplanets.\"\n<right>\u2014 Maja, Information Archives</blockquote>\n\n<left>If an investigator at your location controls or owns a<t> Science</t> card, attach this card to any location. Otherwise, remove this card from the game.<br>You may treat the text box of the attached location as if they were blank.",
@@ -9425,7 +9425,7 @@
             "enumerated": "manual"
         },
         {
-            "name": "Voyage Beyond Space",
+            "name": "A Voyage Beyond Space",
             "front": {
                 "type": "story",
                 "text": "<blockquote>A faint beeping noise can be heard from the far reaches of space.\n\"Voyager 1 is a space probe launched by NASA on September 5, 1977, as part of the Voyager program to study the outer Solar System and interstellar space beyond the Sun's heliosphere. Voyager 1 discovered a thin ring around Jupiter and two new Jovian moons: Thebe and Metis. At Saturn, Voyager 1 found five new moons and a new ring called the G-ring. Voyager 1 is the first human-made object to venture into interstellar space, and it is still the most distant human-made object from Earth.\"\n<right>\u2014 Maja, Information Archives</blockquote>\n\n<left>Each investigator gains 1 resource for each <t>Science</t> card they control or own.<br>Remove this card from the game.",
