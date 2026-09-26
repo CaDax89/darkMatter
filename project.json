@@ -9245,7 +9245,7 @@
             "encounter_set": "ac1147f3-f651-4436-b2e1-830ad8fe2d91"
         },
         {
-            "name": "Sub-electron Noise Sensor",
+            "name": "Sub-Electron Noise Sensor",
             "front": {
                 "type": "asset",
                 "text": "Researched (3 experience and 1 \"Memories\").\n<action> Choose any revealed location with exactly 1 clue remaining. You may either (choose one):\n<bullet> <b>Investigate</b>. Investigate with +2 <intellect> as if you were at that location.\n<bullet> Activate a <b>Scan</b> ability at that location.",
