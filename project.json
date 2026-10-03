@@ -195,7 +195,7 @@
                 "illustration_pan_y": -50.0,
                 "illustration_scale": 1.103,
                 "level": "None",
-                "text": "<rev> Test <combat> (3). If you fail, you must either (choose one): Discard a non-story asset you control, or choose and discard 3 cards from your hand.",
+                "text": "<rev> Test <combat> (3). If you fail, you must either (choose one): \n<bullet> Discard a non-story asset you control.\n<bullet> Choose and discard 3 cards from your hand. ",
                 "traits": "Hazard.",
                 "type": "treachery"
             },
@@ -217,7 +217,7 @@
                 "illustration_pan_y": -24.0,
                 "illustration_scale": 4.15,
                 "level": "None",
-                "text": "<rev> Test <agility> (3). If you fail, you must either (choose one): Take 2 damage, or discard each event in your hand.",
+                "text": "<rev> Test <agility> (3). If you fail, you must either (choose one): , or \n<bullet> Take 2 damage.\n<bullet> Discard each event in your hand.",
                 "traits": "Hazard.",
                 "type": "treachery"
             },
@@ -443,7 +443,7 @@
             "back": {
                 "name": "Systems Online",
                 "index": "1b",
-                "text": "<blockquote>As the nuclear-ion engines begin their reboot sequence, the emergency lights shut off and leave you in darkness.\nYou see glimpses of an image -- of a memory. A great golden palace stands before you, older than time itself. A throne befit for a Queen, reigning over the infinite void of a sunless space. \nWhen the main fluorescent lights return, an ear piercing scream resonates out of the intercom system. It is the sound of several children's roboticized voices crying out in unison. \"Intruders detected! Go away! Please, leave us alone!\"</blockquote>\nShuffle the set aside <i>Artificial Intelligence</i> encounter set into the encounter deck, along with the encounter discard pile. This set is indicated by the following icon:\n<center><image \"project://icons/artificial intelligence.png\" 1cm>\n<left>Advance to agenda 2a and act 2a. Do not remove doom from play and transfer all doom from agenda 1a to agenda 2a.",
+                "text": "<blockquote>As the nuclear-ion engines begin their reboot sequence, the emergency lights shut off and leave you in darkness.\nYou see glimpses of an image -- of a memory. A great golden palace stands before you, older than time itself. A throne befit for a Queen, reigning over the infinite void of a sunless space. \nWhen the main fluorescent lights return, an ear piercing scream resonates out of the intercom system. It is the sound of several children's roboticized voices crying out in unison. \"Intruders detected! Go away! Please, leave us alone!\"</blockquote>\nShuffle the set aside <i>Artificial Intelligence</i> encounter set into the encounter deck, along with the encounter discard pile. This set is indicated by the following icon:\n<center><image \"project://icons/artificial intelligence.png\" 1cm>\n<left>Advance to agenda 2a and act 2a. Do not remove doom from play and move all doom from agenda 1a to agenda 2a.",
                 "type": "act_back"
             },
             "encounter_number": "5",
@@ -633,7 +633,7 @@
                 "illustrator": "Illus. Howard Schechtman",
                 "level": "None",
                 "shroud": "4",
-                "text": "<for> At the end of your turn, if you are at the <name> and do not control Radiation Tablets: Take 1 damage.",
+                "text": "<for> After you end your turn at Engine Room, if you do not control Radiation Tablets: Take 1 damage.",
                 "traits": "Tatterdemalion.",
                 "type": "location"
             },
@@ -751,7 +751,7 @@
                 "illustrator": "Illus. James Holden",
                 "level": "None",
                 "shroud": "1",
-                "text": "<reaction> When you gain any amount of resources during your turn at the <name>: Gain 1 additional resource. (Limit once per round.)",
+                "text": "<reaction> When you gain 1 or more resources during your turn at the Mess Hall: Gain 1 additional resource. (Limit once per round.)",
                 "traits": "Tatterdemalion.",
                 "type": "location"
             },
@@ -977,7 +977,7 @@
                 "illustrator": "Illus. GG-arts",
                 "level": "None",
                 "subtitle": "Artificial Co-Pilot",
-                "text": "Aloof. Alert.\n<action>: <b>Parley.</b> Test <willpower> (3). If you fail, <name> attacks you. If you succeed, choose one of the icons below. <b>Scan.</b> Search for the topmost card in the scanning deck with the chosen icon and draw it. Shuffle the scanning deck.\n<center><image \"project://images/edited_images/clover.png\" 0.59cm> <center><image \"project://images/edited_images/t.png\" 0.59cm> ",
+                "text": "Aloof. Alert.\n<action>: <b>Parley.</b> Test <willpower> (3). If you fail, <name> attacks you. If you succeed, choose one of the icons below; <b>Scan.</b> Search for the topmost card in the scanning deck with the chosen icon and draw it. Shuffle the scanning deck.\n<center><image \"project://images/edited_images/clover.png\" 0.59cm> <center><image \"project://images/edited_images/t.png\" 0.59cm> ",
                 "title": "<unique><name>",
                 "traits": "AI. Machine.",
                 "type": "enemy",
@@ -1372,7 +1372,7 @@
                 "illustration_scale": 1.5289,
                 "illustrator": "Illus. Dean Triolo",
                 "level": "None",
-                "text": "<rev> Test <agility> or <combat> (3). If you fail, deal 1 direct damage to your investigator and to each <t>Ally</t> asset you control. If you control Radiation Tablets, you automatically succeed at this test.",
+                "text": "<rev> Test <agility> or <combat> (3). If you fail, deal 1 direct damage to your investigator and to each <t>Ally</t> asset you control. If you control Radiation Tablets, this test is automatically successful.",
                 "traits": "Hazard.",
                 "type": "treachery"
             },
@@ -1696,7 +1696,7 @@
             "back": {
                 "name": "Just a Bad Dream",
                 "index": "2b",
-                "text": "<blockquote>When the school's simulation has finally been restored, a choir of children's voices cry out, insane with terror, from the school's intercom system. \"What did you do? We scrambled the school so the Boogeyman couldn't find us! It's coming to eat us!\"\nYou realize now that the corruption of the school and the Boogeyman itself are not an outside influence -- they are the manifestations of the childrens' insanity, the personifications of their fears. What could have driven them to the edge of sanity? Regardless, if you can convince them that the monster stems from their own simulated imagination, perhaps you can save them before they are completely consumed by the terror.</blockquote>\nIf The Boogeyman is not in play, spawn the set aside The Boogeyman enemy in the Entrance Hall.\nReveal all unrevealed locations.\nRandomly attach a set aside <t>Avatar</t> story asset to Classroom K2, Library, Gymnasium and Biology Lab. <i>(one to each location)</i> \nIf The Boogeyman is at a location with an <t>Avatar</t> story asset, attach that <t>Avatar</t> story asset to the Cafeteria.",
+                "text": "<blockquote>When the school's simulation has finally been restored, a choir of children's voices cry out, insane with terror, from the school's intercom system. \"What did you do? We scrambled the school so the Boogeyman couldn't find us! It's coming to eat us!\"\nYou realize now that the corruption of the school and the Boogeyman itself are not an outside influence -- they are the manifestations of the childrens' insanity, the personifications of their fears. What could have driven them to the edge of sanity? Regardless, if you can convince them that the monster stems from their own simulated imagination, perhaps you can save them before they are completely consumed by the terror.</blockquote>\nIf The Boogeyman is not in play, spawn it in the Entrance Hall.\nReveal each unrevealed locations.\nRandomly attach a set aside <t>Avatar</t> story asset to Classroom K2, Library, Gymnasium and Biology Lab. <i>(one to each location)</i> \nIf The Boogeyman is at a location with an <t>Avatar</t> story asset, attach that <t>Avatar</t> story asset to the Cafeteria.",
                 "type": "act_back"
             },
             "encounter_number": "7",
@@ -1746,7 +1746,7 @@
                 "illustrator": "Illus. Louis Carr",
                 "level": "None",
                 "subtitle": "Information Archives",
-                "text": "<free> Choose and discard 3 cards from your hand: Disengage from each enemy engaged with you and move to any connecting location. Investigators at any location may trigger this ability. ",
+                "text": "<free> Choose and discard 3 cards from your hand: Disengage from each enemy engaged with you and move to any connecting location. An investigator at any location may trigger this ability.\n",
                 "title": "<unique><name>",
                 "traits": "Avatar.",
                 "type": "asset"
@@ -2248,7 +2248,7 @@
                 "illustrator": "Illus. Spiros Karkav",
                 "level": "None",
                 "shroud": "1",
-                "text": "While investigating this location, it gains +1 shroud for each of your clues.\n<free> If there are no clues on School Grounds: Put the set-aside A Shimmer in the Wall location into play directly above School Grounds.",
+                "text": "While investigating this location, it gains +1 shroud for each clue you have.\n<free> If there are no clues on School Grounds: Put the set-aside A Shimmer in the Wall location into play directly above School Grounds.",
                 "type": "location",
                 "victory": "Victory 1."
             },
@@ -2304,7 +2304,7 @@
                 "illustration_pan_y": 954.0,
                 "illustrator": "Illus. Thomas Barron",
                 "level": "None",
-                "text": "<spawn> Any empty location.\nRetaliate.\nX is the shroud value of this enemy's location.\n<b>Forced --</b> After this enemy's location is switched with another location: Move this enemy 1 location towards the nearest investigator.",
+                "text": "<spawn> Any empty location.\nRetaliate.\nX is the shroud value of this enemy's location.\n<b>Forced --</b> After Shadow of Thoughts' location is switched with another location: Move it 1 location towards the nearest investigator.",
                 "title": "<unique><name>",
                 "traits": "Virtual. Abomination.",
                 "type": "enemy",
@@ -2557,7 +2557,7 @@
                 "illustration_scale": 2.123,
                 "illustrator": "Illus. Mark Fredrickson",
                 "level": "None",
-                "text": "Peril.\n<rev> Test <willpower> or <agility> (4). If you fail, either move The Boogeyman to your current location, or The Boogeyman immediately attacks you. <i>(from any location)</i>",
+                "text": "Peril.\n<rev> Test <willpower> or <agility> (4). If you fail, you must decide <i>(choose one)</i>:\n<bullet> Move The Boogeyman to your current location\n<bullet> The Boogeyman attacks you (even if it is not at your location).",
                 "traits": "Virtual. Nightmare.",
                 "type": "treachery"
             },
@@ -3129,7 +3129,7 @@
                 "illustrator": "Illus. Brandon Hahn",
                 "level": "None",
                 "shroud": "2",
-                "text": "Investigators at this location cannot cancel or ignore card effects or game effects.\n<free> If you have 4 or more face-down encounter cards in your threat area, draw 1 of them: Gain 2 clues from the token bank. (Limit once per round.)",
+                "text": "While you are at this location, you cannot cancel or ignore card or game effects.\n<free> If you have 4 or more face-down encounter cards in your threat area, draw 1 of them: Gain 2 clues from the token bank. (Limit once per round.)",
                 "traits": "Elbrus.",
                 "type": "location"
             },
@@ -3405,7 +3405,7 @@
                 "illustration_scale": 0.736,
                 "index": "1a",
                 "level": "None",
-                "text": "<action> <b>Scan.</b> If the top card of the scanning deck has an icon matching your current location, spend 1<investigator> clues, as a group: Draw the top card of the scanning deck.\n<for> When a <t>Crew</t> story asset is defeated or discarded: Remove it from the game.",
+                "text": "<action>: <b>Scan.</b> If the top card of the scanning deck has an icon matching your current location, spend 1<investigator> clues, as a group: Draw the top card of the scanning deck.\n<for> When a <t>Crew</t> story asset is defeated or discarded: Remove it from the game.",
                 "type": "agenda"
             },
             "back": {
@@ -3431,7 +3431,7 @@
                 "illustration_scale": 0.736,
                 "index": "2a",
                 "level": "None",
-                "text": "<action> <b>Scan.</b> If the top card of the scanning deck has an icon matching your current location, spend 1<investigator> clues, as a group: Draw the top card of the scanning deck.\n<for> When a <t>Crew</t> story asset is defeated or discarded: Remove it from the game.",
+                "text": "<action>: <b>Scan.</b> If the top card of the scanning deck has an icon matching your current location, spend 1<investigator> clues, as a group: Draw the top card of the scanning deck.\n<for> When a <t>Crew</t> story asset is defeated or discarded: Remove it from the game.",
                 "type": "agenda"
             },
             "back": {
@@ -3457,7 +3457,7 @@
                 "illustration_scale": 0.736,
                 "index": "3a",
                 "level": "None",
-                "text": "<action> <b>Scan.</b> If the top card of the scanning deck has an icon matching your current location, spend 1<investigator> clues, as a group: Draw the top card of the scanning deck.\n<for> When a <t>Crew</t> story asset is defeated or discarded: Remove it from the game.",
+                "text": "<action>: <b>Scan.</b> If the top card of the scanning deck has an icon matching your current location, spend 1<investigator> clues, as a group: Draw the top card of the scanning deck.\n<for> When a <t>Crew</t> story asset is defeated or discarded: Remove it from the game.",
                 "type": "agenda"
             },
             "back": {
@@ -3489,7 +3489,7 @@
             "back": {
                 "name": "In Hiding",
                 "index": "1b",
-                "text": "<blockquote>One of the crew members stumbles out in fear. \"Thank god someone is here to help! I heard your calls but was too scared to answer. There's something else with us on the ship -- It's already taken some of the crew but not all of us. I don't know who to trust!\" \n\nThey describe an abomination that has been corrupting and consuming all biological and electronic mass on the ship. The entity is able to take on the form of the bodies and equipment it consumes, becoming a perfect imitation of the original. When it all went downhill, the Nostalgia II enacted a rudimentary quarantine procedure, and the crew have been hiding throughout the ship, waiting for help ever since.\n\nYou can lead the helpless crew member back to the safety of the Tatterdemalion -- but if it is true that this abomination is able to create perfect imitations, how would you know if they are truly human?</blockquote>\nReveal the Ship Mainframe location.\nAdvance to act 2a.",
+                "text": "<blockquote>One of the crew members stumbles out in fear. \"Thank god someone is here to help! I heard your calls but was too scared to answer. There's something else with us on the ship -- It's already taken some of the crew but not all of us. I don't know who to trust!\" \n\nThey describe an abomination that has been corrupting and consuming all biological and electronic mass on the ship. The entity is able to take on the form of the bodies and equipment it consumes, becoming a perfect imitation of the original. When it all went downhill, the Nostalgia II enacted a rudimentary quarantine procedure, and the crew have been hiding throughout the ship, waiting for help ever since.\n\nYou can lead the helpless crew member back to the safety of the Tatterdemalion -- but if it is true that this abomination is able to create perfect imitations, how would you know if they are truly human?</blockquote>\nReveal the Ship Mainframe location.",
                 "type": "act_back"
             },
             "encounter_number": "6",
@@ -3515,7 +3515,7 @@
             "back": {
                 "name": "Quarantine",
                 "index": "2b",
-                "text": "<b>If you advanced this act due to agenda 3b (it is the only way to get here):</b>\n<blockquote>You have isolated and confirmed the safety of as many crew members as you can. However, there are still a few that cannot be accounted for. \nBefore you figure out what to with the unconfirmed crew, the abomination reveals itself in a colony of molted flesh and metal, ready to use the corrupted mass it gathered to smother your existence. </blockquote>\nLook at the story cards that are under the scenario reference card but do not read them. For each of the story cards, reveal 1 random chaos token from the chaos bag. If it is <b><i>not</i></b> a <elder_sign>, <blessing>, '+1', or '0' token, the <t>Crew</t> story asset corresponding to that story card is an imitation of the Entity! \nIf any of the imitations are in the victory display, proceed to (<resolution><b>R2</b>). \nOtherwise, perform the following:\n<bullet>  Spawn the set aside The Entity enemy at the Ship Mainframe. \n<bullet>  Search for all <t>Crew</t> story assets removed from the game and attach \nthem facedown to the Entity.\n<bullet>  Search for all <t>Crew</t> story assets that are imitations of the Entity and \nattach them facedown to the Entity.",
+                "text": "<b>If you advanced this act due to agenda 3b (it is the only way to get here):</b>\n<blockquote>You have isolated and confirmed the safety of as many crew members as you can. However, there are still a few that cannot be accounted for. \nBefore you figure out what to with the unconfirmed crew, the abomination reveals itself in a colony of molted flesh and metal, ready to use the corrupted mass it gathered to smother your existence. </blockquote>\nLook at the story cards that are under the scenario reference card but do not read them. For each of the story cards, reveal 1 random chaos token from the chaos bag. If you did not reveal an <elder_sign>, <blessing>, '+1', or '0' token, the <t>Crew</t> story asset corresponding to that story card is an imitation of the Entity!  \nIf any of the imitations are in the victory display, proceed to (<resolution><b>R2</b>). \nOtherwise, perform the following:\n<bullet>  Spawn the set aside The Entity enemy at the Ship Mainframe. \n<bullet>  Search for all <t>Crew</t> story assets removed from the game and attach \nthem facedown to the Entity.\n<bullet>  Search for all <t>Crew</t> story assets that are imitations of the Entity and attach them facedown to the Entity.",
                 "type": "act_back"
             },
             "encounter_number": "7",
@@ -3561,7 +3561,7 @@
                 "illustration_scale": 0.736,
                 "index": "4a",
                 "level": "None",
-                "text": "<action> <b>Scan.</b> If the top card of the scanning deck has an icon matching your current location, spend 1<investigator> clues, as a group: Draw the top card of the scanning deck.\n<for> When a <t>Crew</t> story asset is defeated or discarded: Attach it facedown to the Entity instead.\n\n<i>(Hint: The scenario will not end \n    when this agenda advances.)</i>",
+                "text": "<action>: <b>Scan.</b> If the top card of the scanning deck has an icon matching your current location, spend 1<investigator> clues, as a group: Draw the top card of the scanning deck.\n<for> When a <t>Crew</t> story asset is defeated or discarded: Attach it facedown to the Entity instead.\n\n<i>(Hint: The scenario will not end \n    when this agenda advances.)</i>",
                 "type": "agenda"
             },
             "back": {
@@ -3590,7 +3590,7 @@
                 "illustration_scale": 1.8173,
                 "illustrator": "Illus. LeonovichDmitriy",
                 "level": "None",
-                "text": "Uses (2 supplies).\n<action><action> Choose a location and spend 1 supply: Deal 3 damage to each enemy and investigator at that location and at each connecting location.",
+                "text": "Uses (2 supplies).\n<action><action> Spend 1 supply: Choose a location and deal 3 damage to each enemy and investigator at that location and at each connecting location.",
                 "title": "<unique><name>",
                 "traits": "Nostalgia II. Weapon. Ranged.",
                 "type": "asset"
@@ -3617,7 +3617,7 @@
                 "illustration_pan_y": 677.0,
                 "illustration_scale": 0.8104,
                 "illustrator": "Illus. Francesco Lorenzetti",
-                "text": "Massive. Hunter. Alert.\nThe Entity gets +2<per_large> health for each facedown card attached to it.\nDamage and horror dealt by The Entity must be assigned to <t>Ally</t> assets first.",
+                "text": "Massive. Hunter. Alert.\nThe Entity gets +2<per_large> health for each facedown card attached to it.\nDamage and horror dealt by The Entity must be assigned to <t>Ally</t> assets first, if able.",
                 "title": "<unique><name>",
                 "traits": "Abomination. Elite.",
                 "type": "enemy",
@@ -3888,7 +3888,7 @@
                 "illustration_scale": 2.037,
                 "level": "None",
                 "shroud": "4",
-                "text": "<action> <b>Parley.</b> Investigators at this location spend 1<investigator> clues, as a group: Draw the top card of the \"Evidence\" deck and read it.",
+                "text": "<action>: <b>Parley.</b> Investigators at this location spend 1<investigator> clues, as a group: Draw the top card of the \"Evidence\" deck and read it.",
                 "traits": "Nostalgia II.",
                 "type": "location"
             },
@@ -3929,7 +3929,7 @@
                 "illustrator": "Illus. penemenn",
                 "level": "None",
                 "shroud": "2",
-                "text": "<action> If it is currently act 2, cross out 1<investigator> of your \"Memories\", as a group: Draw the top card of the \"Evidence\" deck and read it. (Group limit once per game.)",
+                "text": "<action> If it is act 2, cross out 1<investigator> of your \"Memories\", as a group: Draw the top card of the \"Evidence\" deck and read it. (Group limit once per game.)",
                 "traits": "Nostalgia II.",
                 "type": "location"
             },
@@ -4305,7 +4305,7 @@
                 "illustration_scale": 1.318,
                 "illustrator": "Illus. Bogna Gawronska",
                 "level": "None",
-                "text": "<rev> Attach <name> to an <t>Ally</t> asset at your location (unique if possible).\n<for>At the end of the round, you must either (choose one): Discard attached <t>Ally</t>, or place 1 doom on it.",
+                "text": "<rev> Attach <name> to an <t>Ally</t> asset at your location (unique if possible).\n<for>At the end of the round, you must either (choose one): \n<bullet> Discard attached <t>Ally</t>.\n<bullet> Place 1 doom on it.",
                 "traits": "Injury. Madness.",
                 "type": "treachery"
             },
@@ -4333,7 +4333,7 @@
                 "illustration_scale": 1.152,
                 "illustrator": "Illus. Frictional Games Concept Art",
                 "level": "None",
-                "text": "<spawn> Location with the most clues.\n<action> <b>Parley.</b> Test <willpower> (3): If you succeed, discard Corrupted Machine. If you fail, it immediately attacks you.",
+                "text": "<spawn> Location with the most clues.\n<action>: <b>Parley.</b> Test <willpower> (3): If you succeed, discard Corrupted Machine. If you fail, it immediately attacks you.",
                 "traits": "Machine.",
                 "type": "enemy"
             },
@@ -4449,7 +4449,7 @@
                 "illustration_pan_y": -13.0,
                 "illustration_scale": 0.883,
                 "level": "None",
-                "text": "<rev> Attach <name> to your current location.\n<for> After you leave attached location, you must either (choose one): Take 1 horror, or add 1 doom to the current agenda and discard this card. This effect may cause the agenda to advance.",
+                "text": "<rev> Attach <name> to your current location.\n<for> After you leave attached location, you must either (choose one):\n<bullet> Take 1 horror.\n<bullet> Add 1 doom to the current agenda and discard this card. This effect may cause the agenda to advance.",
                 "traits": "Terror.",
                 "type": "treachery"
             },
@@ -5286,7 +5286,7 @@
                 "illustrator": "Illus. Frej Agelli",
                 "level": "None",
                 "shroud": "3",
-                "text": "<action> <b>Parley.</b> Discard 1 card of each cardtype (asset, event, and skill) from your hand: Heal 1 mental trauma. (Group limit once per game.)",
+                "text": "<action>: <b>Parley.</b> Discard 1 card of each cardtype (asset, event, and skill) from your hand: Heal 1 mental trauma. (Group limit once per game.)",
                 "traits": "Simulation. Dreamlands.",
                 "type": "location",
                 "victory": "Victory 1."
@@ -5971,7 +5971,7 @@
                 "illustration_scale": 1.3438,
                 "illustrator": "Illus. Young Wolf",
                 "level": "None",
-                "text": "Hidden. Peril.\n<rev> Secretly add this card to your hand.\n<for> After you reshuffle your deck because there are no cards in it: Discard this card and take 3 horror.\n<reaction> At the start of the investigator phase, choose an investigator to lose 2 actions and draw the top card of the encounter deck: Discard <name>.\n\n",
+                "text": "Hidden. Peril.\n<rev> Secretly add this card to your hand.\n<for> After you reshuffle your deck because there are no cards in it: Take 3 horror, then discard this card.\n<reaction> At the start of the investigator phase, an investigator of your choice draws the top card of the encounter deck and loses two actions: Discard <name>.\n\n",
                 "traits": "Madness.",
                 "type": "treachery"
             },
@@ -5993,7 +5993,7 @@
                 "illustration_scale": 1.3438,
                 "illustrator": "Illus. Young Wolf",
                 "level": "None",
-                "text": "Hidden. Peril.\n<rev> Secretly add this card to your hand.\n<for> After you reshuffle your deck because there are no cards in it: Discard this card and take 3 horror.\n<action> Discard an <t>Ally</t> asset controlled by an investigator at your location: Discard <name>.",
+                "text": "Hidden. Peril.\n<rev> Secretly add this card to your hand.\n<for> After you reshuffle your deck because there are no cards in it: Take 3 horror, then discard this card.\n<act> Choose and discard an ally asset controlled by an investigator at your location: Discard <name>.",
                 "traits": "Madness.",
                 "type": "treachery"
             },
@@ -6037,7 +6037,7 @@
                 "illustration_scale": 1.3438,
                 "illustrator": "Illus. Young Wolf",
                 "level": "None",
-                "text": "Hidden. Peril.\n<rev> Secretly add this card to your hand.\n<for> After you reshuffle your deck because there are no cards in it: Discard this card and take 3 damage.\n<action> Choose an investigator at your location to choose and discard 3 cards from their hand: Discard <name>.\n\n",
+                "text": "Hidden. Peril.\n<rev> Secretly add this card to your hand.\n<for> After you reshuffle your deck because there are no cards in it: Take 3 horror, then discard this card.\n<act> An investigator of your choice at your location must discard 3 cards from their hand: Discard <name>.",
                 "traits": "Madness.",
                 "type": "treachery"
             },
@@ -6081,7 +6081,7 @@
                 "illustration_pan_y": -87.0,
                 "illustration_scale": 1.788,
                 "level": "None",
-                "text": "<rev> Discard the top X cards of your deck. X is your \"Memories\". Draw each weakness discarded by this effect. If no weaknesses were drawn, take 1 horror.",
+                "text": "<rev> Discard the top X cards of your deck. X is your \"Memories\". Draw each weakness discarded this way. If no weaknesses were drawn, take 1 horror.",
                 "traits": "Terror.",
                 "type": "treachery"
             },
@@ -6147,7 +6147,7 @@
                 "illustration_pan_y": -18.0,
                 "illustration_scale": 4.3985,
                 "level": "None",
-                "text": "Peril. Hidden.\n<rev> Secretly add this card to your hand.\n<for> After you discard a hidden card from your hand: Discard Perspective Switch, disengage from all enemies and move to the revealed location farthest from your current location.",
+                "text": "Peril. Hidden.\n<rev> Secretly add this card to your hand.\n<for> After you discard a hidden card from your hand: disengage from each enemy engaged with you and move to a revealed location farthest from your location, discard Perspective Switch.\n",
                 "traits": "Madness.",
                 "type": "treachery"
             },
@@ -6508,7 +6508,7 @@
                 "illustration_scale": 2.16,
                 "illustrator": "Illus. Jaroslaw Blaminsky",
                 "shroud": "3",
-                "text": "<for> When Spiral Staircase flips: Move each investigator at Spiral Staircase to a connecting location.",
+                "text": "<for> When Spiral Staircase is flipped over: Move each investigator at Spiral Staircase to a connecting location.",
                 "traits": "Carcosa.",
                 "type": "location"
             },
@@ -7095,7 +7095,7 @@
                 "illustration_pan_y": 823.0,
                 "illustration_scale": 2.16,
                 "level": "None",
-                "text": "<spawn> Nearest <t>Carcosa</t> location.\nDoes not attack during the enemy phase.\n<for>After you flip <name>'s location: Move it one location towards you.",
+                "text": "<spawn> Nearest <t>Carcosa</t> location.\nDoes not attack during the enemy phase.\n<for>After you flip <name>'s location: Move it 1 location toward you.",
                 "traits": "Obstacle.",
                 "type": "enemy"
             },
@@ -7365,13 +7365,13 @@
                 "illustration_scale": 1.9531,
                 "index": "1c",
                 "level": "None",
-                "text": "<action>: <b>Scan.</b> Search for the topmost card in the scanning deck with an icon matching your current location and draw it. Shuffle the scanning deck.\n<action> <b>Parley.</b> Get help from the colonies. Place 1 of your clues onto the location with the most clues: Deal X damage to Tassilda. X is the number of story assets in the victory display.\n\n<obj> When Tassilda is defeated, \nadvance.\n\n",
+                "text": "<action>: <b>Scan.</b> Search for the topmost card in the scanning deck with an icon matching your current location and draw it. Shuffle the scanning deck.\n<action>: <b>Parley.</b> Get help from the colonies. Place 1 of your clues onto the location with the most clues: Deal X damage to Tassilda. X is the number of story assets in the victory display.\n\n<obj> When Tassilda is defeated, \nadvance.\n\n",
                 "type": "act"
             },
             "back": {
                 "name": "Finale",
                 "index": "1d",
-                "text": "<b>If Hope, Yuggoth and New Brooklyn have been removed from the game:</b>\n<blockquote>You have finally vanquished the fabled princess of Carcosa -- but at what cost?</blockquote>\nAdvance to agenda 1d. (Proceed to the back of the Dark Matter agenda.)\n<b>Otherwise:</b>\n<blockquote>It is finally over... The dark veil covering the solar system left behind by Tassilda's wake dissipates into space as the sun shines once more...</blockquote>\nProceed to (<resolution><b>R2</b>).",
+                "text": "<b>If Hope, Yuggoth and New Brooklyn have been removed from the game:</b>\n<blockquote> You have finally vanquished the fabled princess of Carcosa -- but at what cost?</blockquote>\nAdvance to agenda 1d. (Proceed to the back of the Dark Matter agenda.)\n<b>Otherwise:</b>\n<blockquote>It is finally over... The dark veil covering the solar system left behind by Tassilda's wake dissipates into space as the sun shines once more...</blockquote>\nProceed to (<resolution><b>R2</b>).",
                 "type": "act_back"
             },
             "encounter_number": "7",
@@ -7547,7 +7547,7 @@
                 "illustrator": "Illus. GrivetArt",
                 "level": "None",
                 "subtitle": "Royal Princess of Carcosa",
-                "text": "Massive. Retaliate.\nTassilda gets +1<investigator> health for each tally mark under \"Impending Doom\" in your Campaign Log.\n<for> After any amount of doom is placed on a card: For each doom placed, place 1 horror token on Tassilda's location and each connecting location.",
+                "text": "Massive. Retaliate.\nTassilda gets +1<investigator> health for each tally mark under \"Impending Doom\" in your Campaign Log.\n<for> After doom is placed on any card: For each doom placed, place 1 horror token on Tassilda's location and each connecting location.",
                 "title": "<unique><name>",
                 "traits": "Ancient One. Elite.",
                 "type": "enemy"
@@ -7841,7 +7841,7 @@
                 "illustrator": "Illus. Pixoloid Studio",
                 "level": "None",
                 "shroud": "2",
-                "text": "<rev> Put this location into play.\n<action><action>: <b>Investigate.</b> Choose any revealed location. Investigate as if you were at that location.",
+                "text": "<rev> Put this location into play.\n<action><action>: <b>Investigate.</b> Investigate any revealed location in play as if you were at that location.",
                 "traits": "Mars.",
                 "type": "location"
             },
@@ -8575,7 +8575,7 @@
                 "illustration_scale": 1.28,
                 "illustrator": "Illus. Johnson Ting",
                 "level": "None",
-                "text": "<spawn> Nearest <t>Starship</t> location.\n<action> Spend resources equal to Space Pirates' remaining health: <b>Parley.</b> Discard Space Pirates.",
+                "text": "<spawn> Nearest <t>Starship</t> location.\n<action> Spend X resources, where X is Space Pirates remaining health: <b>Parley.</b> Discard Space Pirates.",
                 "traits": "Humanoid. Criminal.",
                 "type": "enemy"
             },
@@ -8625,7 +8625,7 @@
                 "illustration_scale": 5.235,
                 "illustrator": "Illus. Robert Laskey ",
                 "level": "None",
-                "text": "<spawn> Any location without clues on it.\nHunter.\n<name> moves as if all locations without clues on them are connected to each other. ",
+                "text": "<spawn> Any location without clues on it.\nHunter.\nWhile <name> is moving during the enemy phase, each location without clues is considered to be connected to one another.",
                 "traits": "Monster. Byakhee.",
                 "type": "enemy"
             },
