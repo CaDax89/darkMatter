@@ -155,7 +155,7 @@
                     "double_slash",
                     "diamond"
                 ],
-                "illustration": "./images/edited_images/scanningBack.png",
+                "illustration": "./images/scanningBack.png",
                 "type": "fullart_scanning"
             },
             "encounter_number": "1",
@@ -835,7 +835,7 @@
                 "connections": [
                     "clover"
                 ],
-                "illustration": "./images/edited_images/scanningBack.png",
+                "illustration": "./images/scanningBack.png",
                 "type": "fullart_scanning"
             },
             "encounter_number": "16",
@@ -872,7 +872,7 @@
                     "square",
                     "crescent"
                 ],
-                "illustration": "./images/edited_images/scanningBack.png",
+                "illustration": "./images/scanningBack.png",
                 "type": "fullart_scanning"
             },
             "encounter_number": "17",
@@ -895,7 +895,7 @@
                 "connections": [
                     "t"
                 ],
-                "illustration": "./images/edited_images/scanningBack.png",
+                "illustration": "./images/scanningBack.png",
                 "type": "fullart_scanning"
             },
             "encounter_number": "18",
@@ -910,7 +910,6 @@
                 "classes": [
                     "weakness"
                 ],
-                "cost": "<dash>",
                 "illustration": "./images/edited_images/language - unknown.jpg",
                 "illustration_pan_x": -182.0,
                 "illustration_pan_y": 171.0,
@@ -929,7 +928,7 @@
                 "connections": [
                     "double_slash"
                 ],
-                "illustration": "./images/edited_images/scanningBack.png",
+                "illustration": "./images/scanningBack.png",
                 "type": "fullart_scanning"
             },
             "encounter_number": "19",
@@ -952,7 +951,7 @@
                 "connections": [
                     "clover"
                 ],
-                "illustration": "./images/edited_images/scanningBack.png",
+                "illustration": "./images/scanningBack.png",
                 "type": "fullart_scanning"
             },
             "encounter_number": "20",
@@ -969,11 +968,11 @@
                 "evade": "2",
                 "health": "3",
                 "horror": 1,
-                "illustration": "./images/edited_images/603802f42316f5542ca2608ed8552f8d.jpg",
-                "illustration_pan_x": -975,
-                "illustration_pan_y": 1020,
+                "illustration": "./images//603802f42316f5542ca2608ed8552f8d.jpg",
+                "illustration_pan_x": -304.0,
+                "illustration_pan_y": 1092.0,
                 "illustration_rotation": -3.81,
-                "illustration_scale": 2.96,
+                "illustration_scale": 1.865,
                 "illustrator": "Illus. GG-arts",
                 "level": "None",
                 "subtitle": "Artificial Co-Pilot",
@@ -990,7 +989,7 @@
                 "connections": [
                     "t"
                 ],
-                "illustration": "./images/edited_images/scanningBack.png",
+                "illustration": "./images/scanningBack.png",
                 "type": "fullart_scanning"
             },
             "encounter_number": "21",
@@ -1014,7 +1013,7 @@
                     "t",
                     "clover"
                 ],
-                "illustration": "./images/edited_images/scanningBack.png",
+                "illustration": "./images/scanningBack.png",
                 "type": "fullart_scanning"
             },
             "encounter_number": "22",
@@ -1052,7 +1051,7 @@
                     "circle",
                     "cross"
                 ],
-                "illustration": "./images/edited_images/scanningBack.png",
+                "illustration": "./images/scanningBack.png",
                 "type": "fullart_scanning"
             },
             "encounter_number": "23",
@@ -1067,7 +1066,6 @@
                 "classes": [
                     "neutral"
                 ],
-                "cost": "<dash>",
                 "illustration": "./images/edited_images/foam - ivan robert vasquez.jpg",
                 "illustration_pan_x": -212.0,
                 "illustration_pan_y": 208.0,
@@ -1086,7 +1084,7 @@
                 "connections": [
                     "heart"
                 ],
-                "illustration": "./images/edited_images/scanningBack.png",
+                "illustration": "./images/scanningBack.png",
                 "type": "fullart_scanning"
             },
             "encounter_number": "24",
@@ -1122,7 +1120,7 @@
                     "hourglass",
                     "t"
                 ],
-                "illustration": "./images/edited_images/scanningBack.png",
+                "illustration": "./images//scanningBack.png",
                 "type": "fullart_scanning"
             },
             "encounter_number": "25",
@@ -1155,7 +1153,7 @@
                 "connections": [
                     "heart"
                 ],
-                "illustration": "./images/edited_images/scanningBack.png",
+                "illustration": "./images/scanningBack.png",
                 "type": "fullart_scanning"
             },
             "encounter_number": "26",
@@ -1178,7 +1176,7 @@
                 "connections": [
                     "star"
                 ],
-                "illustration": "./images/edited_images/scanningBack.png",
+                "illustration": "./images/scanningBack.png",
                 "text": "\n\n\n\n",
                 "type": "fullart_scanning"
             },
@@ -1215,7 +1213,7 @@
                     "circle",
                     "cross"
                 ],
-                "illustration": "./images/edited_images/scanningBack.png",
+                "illustration": "./images/scanningBack.png",
                 "text": "",
                 "type": "fullart_scanning"
             },
@@ -1240,7 +1238,7 @@
                     "crescent",
                     "hourglass"
                 ],
-                "illustration": "./images/edited_images/scanningBack.png",
+                "illustration": "./images/scanningBack.png",
                 "type": "fullart_scanning"
             },
             "encounter_number": "29",
@@ -1263,7 +1261,7 @@
                 "connections": [
                     "triangle"
                 ],
-                "illustration": "./images/edited_images/scanningBack.png",
+                "illustration": "./images/scanningBack.png",
                 "type": "fullart_scanning"
             },
             "encounter_number": "30",
@@ -1773,7 +1771,6 @@
                 "classes": [
                     "neutral"
                 ],
-                "cost": "-",
                 "illustration": "./images/edited_images/girl1 Damian Lechoszest.jpg",
                 "illustration_pan_x": 37.0,
                 "illustration_pan_y": 48.0,
@@ -1804,7 +1801,6 @@
                 "classes": [
                     "neutral"
                 ],
-                "cost": "-",
                 "illustration": "./images/edited_images/Greuze Jean-Baptiste.jpg",
                 "illustration_pan_x": -17.0,
                 "illustration_pan_y": -62.0,
@@ -1835,7 +1831,6 @@
                 "classes": [
                     "neutral"
                 ],
-                "cost": "-",
                 "illustration": "./images/edited_images/Mark Lovett.jpg",
                 "illustration_pan_x": 121.0,
                 "illustration_pan_y": -110.0,
@@ -1866,7 +1861,6 @@
                 "classes": [
                     "neutral"
                 ],
-                "cost": "-",
                 "illustration": "./images/edited_images/candlelight2_by_rainbowgrumpy.jpg",
                 "illustration_pan_x": -203.0,
                 "illustration_pan_y": 10.0,
@@ -1916,7 +1910,6 @@
                 "classes": [
                     "neutral"
                 ],
-                "cost": "<dash>",
                 "illustration": "./images/edited_images/hal2 - unknown.jpg",
                 "illustration_pan_x": -32.0,
                 "illustration_pan_y": 153.0,
@@ -1943,7 +1936,6 @@
                 "classes": [
                     "neutral"
                 ],
-                "cost": "<dash>",
                 "illustration": "./images/edited_images/hal2 - unknown.jpg",
                 "illustration_pan_x": -32.0,
                 "illustration_pan_y": 153.0,
@@ -1970,7 +1962,6 @@
                 "classes": [
                     "neutral"
                 ],
-                "cost": "<dash>",
                 "illustration": "./images/edited_images/hal2 - unknown.jpg",
                 "illustration_pan_x": -32.0,
                 "illustration_pan_y": 153.0,
@@ -1997,7 +1988,6 @@
                 "classes": [
                     "neutral"
                 ],
-                "cost": "<dash>",
                 "illustration": "./images/edited_images/hal2 - unknown.jpg",
                 "illustration_pan_x": -32.0,
                 "illustration_pan_y": 153.0,
@@ -2789,7 +2779,6 @@
                 "classes": [
                     "neutral"
                 ],
-                "cost": "<dash>",
                 "illustration": "./images/edited_images/scientist ben-olson.jpg",
                 "illustration_pan_x": -15.0,
                 "illustration_pan_y": 11.0,
@@ -2854,10 +2843,10 @@
                     "crescent"
                 ],
                 "flavor_text": "There are no stars in the backdrop of this lost quantum.",
-                "illustration": "./images/edited_images/astroilf marton-antal.jpg",
-                "illustration_pan_x": -199.0,
-                "illustration_pan_y": 147.0,
-                "illustration_scale": 0.945,
+                "illustration": "./images/astroilf marton-antal.jpg",
+                "illustration_pan_x": -277.0,
+                "illustration_pan_y": 222.0,
+                "illustration_scale": 1.021,
                 "illustrator": "Illus. Marton Antal",
                 "level": "None",
                 "shroud": "3",
@@ -2907,7 +2896,7 @@
                 "collection_icon": "",
                 "collection_number": "",
                 "connections": "<copy>",
-                "illustration": "./images/edited_images/scanningBack.png",
+                "illustration": "./images/scanningBack.png",
                 "text": "",
                 "type": "fullart_scanning"
             },
@@ -2949,7 +2938,7 @@
                     "crescent",
                     "diamond"
                 ],
-                "illustration": "./images/edited_images/scanningBack.png",
+                "illustration": "./images/scanningBack.png",
                 "text": "",
                 "type": "fullart_scanning"
             },
@@ -2985,7 +2974,7 @@
                 "collection_icon": "",
                 "collection_number": "",
                 "connections": "<copy>",
-                "illustration": "./images/edited_images/scanningBack.png",
+                "illustration": "./images/scanningBack.png",
                 "text": "",
                 "type": "fullart_scanning"
             },
@@ -3023,7 +3012,7 @@
                 "collection_icon": "",
                 "collection_number": "",
                 "connections": "<copy>",
-                "illustration": "./images/edited_images/scanningBack.png",
+                "illustration": "./images/scanningBack.png",
                 "text": "",
                 "type": "fullart_scanning"
             },
@@ -3060,7 +3049,7 @@
                 "collection_icon": "",
                 "collection_number": "",
                 "connections": "<copy>",
-                "illustration": "./images/edited_images/scanningBack.png",
+                "illustration": "./images/scanningBack.png",
                 "text": "",
                 "type": "fullart_scanning"
             },
@@ -3102,7 +3091,7 @@
                     "crescent",
                     "double_slash"
                 ],
-                "illustration": "./images/edited_images/scanningBack.png",
+                "illustration": "./images/scanningBack.png",
                 "text": "",
                 "type": "fullart_scanning"
             },
@@ -3138,7 +3127,7 @@
                 "collection_icon": "",
                 "collection_number": "",
                 "connections": "<copy>",
-                "illustration": "./images/edited_images/scanningBack.png",
+                "illustration": "./images/scanningBack.png",
                 "text": "",
                 "type": "fullart_scanning"
             },
@@ -3739,7 +3728,7 @@
                 "flavor_text": "The rumbles and vibrations increase in magnitude the closer you are to the engines.",
                 "illustration": "./images/edited_images/01_corridor_render.jpg",
                 "illustration_pan_x": -280.0,
-                "illustration_pan_y": -112.0,
+                "illustration_pan_y": 112.0,
                 "illustration_scale": 1.132,
                 "illustrator": "Illus. Mat Szulik",
                 "traits": "Nostalgia II.",
@@ -3957,7 +3946,6 @@
                 "classes": [
                     "neutral"
                 ],
-                "cost": "<dash>",
                 "health": "2",
                 "illustration": "./images/edited_images/Reversion_Scientist_CostumeStudy_130611.jpg-nggid03268-ngg0dyn-0x0x100-00f0w010c010r110f110r010t010.jpg",
                 "illustration_pan_x": -326.0,
@@ -3980,7 +3968,7 @@
                     "diamond",
                     "double_slash"
                 ],
-                "illustration": "./images/edited_images/scanningBack.png",
+                "illustration": "./images/scanningBack.png",
                 "type": "fullart_scanning"
             },
             "encounter_number": "19",
@@ -3995,7 +3983,6 @@
                 "classes": [
                     "neutral"
                 ],
-                "cost": "<dash>",
                 "health": "2",
                 "illustration": "./images/edited_images/burr_by_sharpwriter_d6b2hck-fullview.jpg",
                 "illustration_pan_x": -235.0,
@@ -4018,7 +4005,7 @@
                     "t",
                     "hourglass"
                 ],
-                "illustration": "./images/edited_images/scanningBack.png",
+                "illustration": "./images/scanningBack.png",
                 "type": "fullart_scanning"
             },
             "encounter_number": "20",
@@ -4033,7 +4020,6 @@
                 "classes": [
                     "neutral"
                 ],
-                "cost": "<dash>",
                 "health": "2",
                 "illustration": "./images/edited_images/01Untitled.jpg",
                 "illustration_pan_x": -120.0,
@@ -4056,7 +4042,7 @@
                     "clover",
                     "diamond"
                 ],
-                "illustration": "./images/edited_images/scanningBack.png",
+                "illustration": "./images/scanningBack.png",
                 "type": "fullart_scanning"
             },
             "encounter_number": "21",
@@ -4071,7 +4057,6 @@
                 "classes": [
                     "neutral"
                 ],
-                "cost": "<dash>",
                 "health": "2",
                 "illustration": "./images/edited_images/Reversion_Lilith_CostumeStudy_130611.jpg-nggid03263-ngg0dyn-0x0x100-00f0w010c010r110f110r010t010.jpg",
                 "illustration_pan_x": -204.0,
@@ -4094,7 +4079,7 @@
                     "double_slash",
                     "t"
                 ],
-                "illustration": "./images/edited_images/scanningBack.png",
+                "illustration": "./images/scanningBack.png",
                 "type": "fullart_scanning"
             },
             "encounter_number": "22",
@@ -4109,7 +4094,6 @@
                 "classes": [
                     "neutral"
                 ],
-                "cost": "<dash>",
                 "health": "3",
                 "illustration": "./images/edited_images/192eded67c3b9087c3b85b5b575d3b00.jpg",
                 "illustration_pan_x": -55.0,
@@ -4131,7 +4115,7 @@
                     "square",
                     "clover"
                 ],
-                "illustration": "./images/edited_images/scanningBack.png",
+                "illustration": "./images/scanningBack.png",
                 "type": "fullart_scanning"
             },
             "encounter_number": "23",
@@ -4146,7 +4130,6 @@
                 "classes": [
                     "neutral"
                 ],
-                "cost": "<dash>",
                 "health": "2",
                 "illustration": "./images/edited_images/Reversion_Cannibal_CostumeStudy_130611.jpg-nggid03247-ngg0dyn-0x0x100-00f0w010c010r110f110r010t010.jpg",
                 "illustration_pan_x": -148.0,
@@ -4169,7 +4152,7 @@
                     "hourglass",
                     "square"
                 ],
-                "illustration": "./images/edited_images/scanningBack.png",
+                "illustration": "./images/scanningBack.png",
                 "type": "fullart_scanning"
             },
             "encounter_number": "24",
@@ -4768,7 +4751,6 @@
                 "classes": [
                     "neutral"
                 ],
-                "cost": "<dash>",
                 "flavor_text": "The alien inscriptions on this cylinder have faded away -- this one must be decades old.",
                 "health": "2",
                 "illustration": "./images/edited_images/brain in a jar.jpg",
@@ -4796,7 +4778,6 @@
                 "classes": [
                     "neutral"
                 ],
-                "cost": "<dash>",
                 "flavor_text": "A cursory translation of the inscription reveals that this brain has been deemed 'unusable'.  You wonder what that means.",
                 "health": "2",
                 "illustration": "./images/edited_images/brain in a jar.jpg",
@@ -4824,7 +4805,6 @@
                 "classes": [
                     "neutral"
                 ],
-                "cost": "<dash>",
                 "flavor_text": "On the glass of this cylinder is marked an obviously human inscription -- the symbol you've come to known as the Yellow Sign.",
                 "health": "2",
                 "illustration": "./images/edited_images/brain in a jar.jpg",
@@ -4977,7 +4957,7 @@
                 "illustration_scale": 3.56,
                 "level": "None",
                 "shroud": "3",
-                "text": "<action> If Reality Simulator is in play: <b>Scan.</b> Search the scanning deck for a card with both this location's icon and the icon on a <t>Brain</t> story asset attached to this location. Draw it. If it is a location, put that card into play on top of Reality Simulator.\n\nLimit 2 <t>Brain</t> story assets attached to this location.",
+                "text": "<action>: If Reality Simulator is in play: <b>Scan.</b> Search the scanning deck for a card with both this location's icon and the icon on a <t>Brain</t> story asset attached to this location. Draw it. If it is a location, put that card into play on top of Reality Simulator.\n\nLimit 2 <t>Brain</t> story assets attached to this location.",
                 "traits": "Interface.",
                 "type": "location"
             },
@@ -5008,9 +4988,9 @@
                 ],
                 "flavor_text": "The caverns between the cliffs gleam in a slick and bio-mechanical texture -- undoubtedly artificial, but unlike any architecture you've ever seen.",
                 "illustration": "./images/edited_images/3043aa30f46689f21f9fc30491557722.jpg",
-                "illustration_pan_x": -47.0,
-                "illustration_pan_y": -1.0,
-                "illustration_rotation": 180,
+                "illustration_pan_x": -189.0,
+                "illustration_pan_y": 38.0,
+                "illustration_rotation": 0,
                 "illustration_scale": 1.427,
                 "level": "None",
                 "shroud": "3",
@@ -5024,7 +5004,7 @@
                 "illustration": "./images/edited_images/door.jpg",
                 "illustration_pan_x": -551.0,
                 "illustration_pan_y": 54.0,
-                "illustration_rotation": 180,
+                "illustration_rotation": 0,
                 "illustration_scale": 1.283,
                 "type": "location_back"
             },
@@ -5139,7 +5119,7 @@
                     "triangle",
                     "square"
                 ],
-                "illustration": "./images/edited_images/scanningBack.png",
+                "illustration": "./images/scanningBack.png",
                 "text": "",
                 "type": "fullart_scanning"
             },
@@ -5179,7 +5159,7 @@
                     "triangle",
                     "diamond"
                 ],
-                "illustration": "./images/edited_images/scanningBack.png",
+                "illustration": "./images/scanningBack.png",
                 "text": "",
                 "type": "fullart_scanning"
             },
@@ -5219,7 +5199,7 @@
                     "clover",
                     "double_slash"
                 ],
-                "illustration": "./images/edited_images/scanningBack.png",
+                "illustration": "./images/scanningBack.png",
                 "text": "",
                 "type": "fullart_scanning"
             },
@@ -5258,7 +5238,7 @@
                     "triangle",
                     "double_slash"
                 ],
-                "illustration": "./images/edited_images/scanningBack.png",
+                "illustration": "./images/scanningBack.png",
                 "text": "",
                 "type": "fullart_scanning"
             },
@@ -5299,7 +5279,7 @@
                     "clover",
                     "square"
                 ],
-                "illustration": "./images/edited_images/scanningBack.png",
+                "illustration": "./images/scanningBack.png",
                 "text": "",
                 "type": "fullart_scanning"
             },
@@ -5339,7 +5319,7 @@
                     "clover",
                     "diamond"
                 ],
-                "illustration": "./images/edited_images/scanningBack.png",
+                "illustration": "./images/scanningBack.png",
                 "text": "",
                 "type": "fullart_scanning"
             },
@@ -5364,7 +5344,7 @@
                     "hourglass",
                     "diamond"
                 ],
-                "illustration": "./images/edited_images/scanningBack.png",
+                "illustration": "./images/scanningBack.png",
                 "type": "fullart_scanning"
             },
             "encounter_number": "24",
@@ -5388,7 +5368,7 @@
                     "hourglass",
                     "double_slash"
                 ],
-                "illustration": "./images/edited_images/scanningBack.png",
+                "illustration": "./images/scanningBack.png",
                 "type": "fullart_scanning"
             },
             "encounter_number": "25",
@@ -5412,7 +5392,7 @@
                     "hourglass",
                     "square"
                 ],
-                "illustration": "./images/edited_images/scanningBack.png",
+                "illustration": "./images/scanningBack.png",
                 "type": "fullart_scanning"
             },
             "encounter_number": "26",
@@ -5804,7 +5784,7 @@
             "back": {
                 "name": "..?",
                 "index": "3b",
-                "text": "<b>Madness.</b> <i>noun.</i> mad.ness. |'mad-n\u0259s.|\nThe state of being mentally ill, especially severely.\n<bullet> Extremely foolish behavior.\n<bullet> A state of frenzied or chaotic activity.\n<bullet> There is no reason to flip to agenda 3b.\n<bullet> You may heal up to 1 mental trauma. (Group limit once per \ngame.)\n<bullet> Didn't expect that, did you?\n<bullet> Flip back to agenda 3a.",
+                "text": "<b>Madness.</b> <i>noun.</i> mad.ness. |'mad-n\u0259s.|\nThe state of being mentally ill, especially severely.\n<bullet> Extremely foolish behavior.\n<bullet> A state of frenzied or chaotic activity.\n<bullet> There is no reason to flip to agenda 3b.\n<bullet> You may heal up to 1 mental trauma. (Group limit once per game.)\n<bullet> Didn't expect that, did you?\n<bullet> Flip back to agenda 3a.",
                 "type": "agenda_back"
             },
             "encounter_number": "4",
@@ -5869,7 +5849,7 @@
             "back": {
                 "name": "No Mask? No Mask!",
                 "index": "2b",
-                "text": "<blockquote>As you face off with the Stranger, you get the sense that he is grinning beneath his pale, faceless mask. \"Where is Fragment?\" you ask, but he does not respond. \"Who are you?\" He remains silent, but brings his gloved hand up and slowly removes his mask, revealing a mirror image of yourself.\n\"Who are <b>you</b>?\" the doppelg\u00e4nger asks threateningly. You step back in shock -- and your other self steps back in accordance. You point towards it - and it responds in kind. The stranger appears to mimic your every move.</blockquote>\nPut a copy of the set aside Your Other Self into play in each investigator's threat area.\nCheck your Campaign Log. If <i>you have uncovered the cultists' inhuman methods,</i> each investigator may either (choose one):\n<bullet> Gain 1 clue from the token bank and heal up to 2 damage and 2 \nhorror.\n<bullet> Add 1 tally mark next to their \"Memories\".",
+                "text": "<blockquote>As you face off with the Stranger, you get the sense that he is grinning beneath his pale, faceless mask. \"Where is Fragment?\" you ask, but he does not respond. \"Who are you?\" He remains silent, but brings his gloved hand up and slowly removes his mask, revealing a mirror image of yourself.\n\"Who are <b>you</b>?\" the doppelg\u00e4nger asks threateningly. You step back in shock -- and your other self steps back in accordance. You point towards it - and it responds in kind. The stranger appears to mimic your every move.</blockquote>\nPut a copy of the set aside Your Other Self into play in each investigator's threat area.\nCheck your Campaign Log. If <i>you have uncovered the cultists' inhuman methods,</i> each investigator may either (choose one):\n<bullet> Gain 1 clue from the token bank and heal up to 2 damage and 2 horror.\n<bullet> Add 1 tally mark next to their \"Memories\".",
                 "type": "act_back"
             },
             "encounter_number": "6",
@@ -6015,7 +5995,7 @@
                 "illustration_scale": 1.3438,
                 "illustrator": "Illus. Young Wolf",
                 "level": "None",
-                "text": "Hidden. Peril.\n<rev> Secretly add this card to your hand.\n<for> After you reshuffle your deck because there are no cards in it: Discard this card and take 3 damage.\n<action> Choose an investigator at your location to spend 4 resources: Discard this card.",
+                "text": "Hidden. Peril.\n<rev> Secretly add this card to your hand.\n<for> After you reshuffle your deck because there are no cards in it: Take 3 horror, then discard this card.\n<action> Choose an investigator at your location to spend 4 resources: Discard this card.",
                 "traits": "Madness.",
                 "type": "treachery"
             },
@@ -6275,7 +6255,7 @@
                 "doom": "19",
                 "flavor_text": "Your landing must have disturbed the pocket reality hidden within Fragment. The entire asteroid is beginning to collapse and soon you will be trapped within. Get out of here while you still can!",
                 "illustration": "./images/edited_images/tumblr_naf77e20T61rtj3g0o1_400.jpg",
-                "illustration_pan_x": -101.0,
+                "illustration_pan_x": -107.0,
                 "illustration_pan_y": -119.0,
                 "illustration_scale": 2.935,
                 "index": "2a",
@@ -7140,9 +7120,9 @@
                 "health": "3<per>",
                 "horror": 1,
                 "illustration": "./images/edited_images/329038-horreur-de-brume.jpg",
-                "illustration_pan_x": -150.0,
-                "illustration_pan_y": 1016.0,
-                "illustration_rotation": 180,
+                "illustration_pan_x": -175.0,
+                "illustration_pan_y": 859.0,
+                "illustration_rotation": 0,
                 "illustration_scale": 1.7834,
                 "level": "None",
                 "text": "Aloof. Hunter.\nYellow Mists' location gains the <t>Carcosa</t> trait.",
@@ -7231,9 +7211,9 @@
                 "connection": "cross",
                 "flavor_text": "The sun glares with unrivalled intensity in the night sky -- challenging and defeating all in a vicious battle for attention.",
                 "illustration": "./images/edited_images/38278wide.jpg",
-                "illustration_pan_x": -288,
-                "illustration_pan_y": -39,
-                "illustration_scale": 1.76,
+                "illustration_pan_x": -328.0,
+                "illustration_pan_y": -93.0,
+                "illustration_scale": 1.6,
                 "index": "1b",
                 "shroud": "9",
                 "text": "<rev> Put this location into play.\n<for> After you enter this location: You are immediately <b>killed.</b>",
@@ -7289,9 +7269,9 @@
             "back": {
                 "name": "Death of the Sun",
                 "illustration": "./images/edited_images/supernova.jpg",
-                "illustration_pan_x": -926,
-                "illustration_pan_y": -85,
-                "illustration_scale": 4,
+                "illustration_pan_x": -900.0,
+                "illustration_pan_y": -9.0,
+                "illustration_scale": 3.429,
                 "index": "3b",
                 "text": "<i>You've run out of time. You can no longer make it to any of the shelters before the approaching apocalypse. All you can do is look up, and watch the majestic display.</i>\nEach remaining investigator is defeated. (<resolution><b>R1</b>)",
                 "type": "act_agenda_full_back"
@@ -7706,7 +7686,7 @@
                     "t",
                     "triangle"
                 ],
-                "illustration": "./images/edited_images/scanningBack.png",
+                "illustration": "./images/scanningBack.png",
                 "text": "",
                 "type": "fullart_scanning"
             },
@@ -7742,7 +7722,7 @@
                 "collection_icon": "",
                 "collection_number": "",
                 "connections": "<copy>",
-                "illustration": "./images/edited_images/scanningBack.png",
+                "illustration": "./images/scanningBack.png",
                 "text": "",
                 "type": "fullart_scanning"
             },
@@ -7777,7 +7757,7 @@
                     "t",
                     "triangle"
                 ],
-                "illustration": "./images/edited_images/scanningBack.png",
+                "illustration": "./images/scanningBack.png",
                 "text": "",
                 "type": "fullart_scanning"
             },
@@ -7814,7 +7794,7 @@
                 "collection_icon": "",
                 "collection_number": "",
                 "connections": "<copy>",
-                "illustration": "./images/edited_images/scanningBack.png",
+                "illustration": "./images/scanningBack.png",
                 "text": "",
                 "type": "fullart_scanning"
             },
@@ -7850,7 +7830,7 @@
                 "collection_icon": "",
                 "collection_number": "",
                 "connections": "<copy>",
-                "illustration": "./images/edited_images/scanningBack.png",
+                "illustration": "./images/scanningBack.png",
                 "text": "",
                 "type": "fullart_scanning"
             },
@@ -7880,12 +7860,12 @@
                 "copyright": " ",
                 "collection_icon": "",
                 "collection_number": "",
-                "connection": "<copy>",
+                "connection": "null",
                 "connections": [
                     "t",
                     "triangle"
                 ],
-                "illustration": "./images/edited_images/scanningBack.png",
+                "illustration": "./images/scanningBack.png",
                 "text": "",
                 "type": "fullart_scanning"
             },
@@ -7921,7 +7901,7 @@
                 "collection_icon": "",
                 "collection_number": "",
                 "connections": "<copy>",
-                "illustration": "./images/edited_images/scanningBack.png",
+                "illustration": "./images/scanningBack.png",
                 "text": "",
                 "type": "fullart_scanning"
             },
@@ -7945,7 +7925,7 @@
                 "connections": [
                     "cross"
                 ],
-                "illustration": "./images/edited_images/scanningBack.png",
+                "illustration": "./images/scanningBack.png",
                 "text": null,
                 "type": "fullart_scanning"
             },
@@ -7961,7 +7941,6 @@
                 "classes": [
                     "neutral"
                 ],
-                "cost": "<dash>",
                 "flavor_text": "The data required is reported to have been discovered somewhere along the edge of the solar system.",
                 "illustration": "./images/edited_images/wormhole-harald-ritschscience-photo-library.jpg",
                 "illustration_pan_x": -16.0,
@@ -7978,7 +7957,7 @@
                 "connections": [
                     "diamond"
                 ],
-                "illustration": "./images/edited_images/scanningBack.png",
+                "illustration": "./images/scanningBack.png",
                 "type": "fullart_scanning"
             },
             "encounter_number": "25",
@@ -7993,7 +7972,6 @@
                 "classes": [
                     "neutral"
                 ],
-                "cost": "<dash>",
                 "flavor_text": "Rumor has it that the electromagnetic shileding technology has already been developed by humanity in certain secret laboratories.",
                 "illustration": "./images/edited_images/hope life ROBERT MURRAY.jpg",
                 "illustration_pan_x": -84.0,
@@ -8012,7 +7990,7 @@
                     "circle",
                     "triangle"
                 ],
-                "illustration": "./images/edited_images/scanningBack.png",
+                "illustration": "./images/scanningBack.png",
                 "type": "fullart_scanning"
             },
             "encounter_number": "27",
@@ -8027,7 +8005,6 @@
                 "classes": [
                     "neutral"
                 ],
-                "cost": "<dash>",
                 "flavor_text": "The strange beings of Mi-Go point out that members of the Great Race of Yith have been frequently spotted in Martian territories.",
                 "illustration": "./images/edited_images/mi_go_swarm_by_jarling_art.jpg",
                 "illustration_pan_x": -50.0,
@@ -8045,7 +8022,7 @@
                 "connections": [
                     "clover"
                 ],
-                "illustration": "./images/edited_images/scanningBack.png",
+                "illustration": "./images/scanningBack.png",
                 "type": "fullart_scanning"
             },
             "encounter_number": "29",
@@ -8060,7 +8037,6 @@
                 "classes": [
                     "neutral"
                 ],
-                "cost": "<dash>",
                 "flavor_text": "The missing research vessel drifts somewhere in the solar system -- perhaps the Tatterdemalion's sensors could detect it.",
                 "illustration": "./images/edited_images/HPU_2.0_1260x539.jpg",
                 "illustration_pan_x": -565.0,
@@ -8079,7 +8055,7 @@
                 "connections": [
                     "diamond"
                 ],
-                "illustration": "./images/edited_images/scanningBack.png",
+                "illustration": "./images/scanningBack.png",
                 "type": "fullart_scanning"
             },
             "encounter_number": "24",
@@ -8094,7 +8070,6 @@
                 "classes": [
                     "neutral"
                 ],
-                "cost": "<dash>",
                 "flavor_text": "With few remaining soldiers, Director Cixin requests your aid in defending against the assault of the Martians.",
                 "illustration": "./images/edited_images/bf47b3bdbd99b5923a84894f092ee495.jpg",
                 "illustration_pan_x": -31.0,
@@ -8115,7 +8090,7 @@
                     "circle",
                     "triangle"
                 ],
-                "illustration": "./images/edited_images/scanningBack.png",
+                "illustration": "./images/scanningBack.png",
                 "type": "fullart_scanning"
             },
             "encounter_number": "26",
@@ -8130,7 +8105,6 @@
                 "classes": [
                     "neutral"
                 ],
-                "cost": "<dash>",
                 "flavor_text": "The Mi-Go do not trust you after what you've done on Titan -- you must regain their cooperation by gathering 'information' from the lost lunar station.",
                 "illustration": "./images/edited_images/8bf02232faefee8e85ec7404cafb0248.jpg",
                 "illustration_pan_x": -96.0,
@@ -8150,7 +8124,7 @@
                 "connections": [
                     "clover"
                 ],
-                "illustration": "./images/edited_images/scanningBack.png",
+                "illustration": "./images/scanningBack.png",
                 "type": "fullart_scanning"
             },
             "encounter_number": "28",
@@ -8187,7 +8161,7 @@
                     "double_slash",
                     "hourglass"
                 ],
-                "illustration": "./images/edited_images/scanningBack.png",
+                "illustration": "./images/scanningBack.png",
                 "type": "fullart_scanning"
             },
             "encounter_number": "31",
@@ -8223,7 +8197,7 @@
                     "heart",
                     "diamond"
                 ],
-                "illustration": "./images/edited_images/scanningBack.png",
+                "illustration": "./images/scanningBack.png",
                 "type": "fullart_scanning"
             },
             "encounter_number": "32",
@@ -8246,7 +8220,7 @@
                 "connections": [
                     "hourglass"
                 ],
-                "illustration": "./images/edited_images/scanningBack.png",
+                "illustration": "./images/scanningBack.png",
                 "type": "fullart_scanning"
             },
             "encounter_number": "34",
@@ -8261,7 +8235,6 @@
                 "classes": [
                     "neutral"
                 ],
-                "cost": "<dash>",
                 "illustration": "./images/edited_images/palid mask.jpg",
                 "illustration_pan_x": -879.0,
                 "illustration_pan_y": -318.0,
@@ -8280,7 +8253,7 @@
                     "quote",
                     "cross"
                 ],
-                "illustration": "./images/edited_images/scanningBack.png",
+                "illustration": "./images/scanningBack.png",
                 "type": "fullart_scanning"
             },
             "encounter_number": "35",
@@ -8317,7 +8290,7 @@
                     "triangle",
                     "square"
                 ],
-                "illustration": "./images/edited_images/scanningBack.png",
+                "illustration": "./images/scanningBack.png",
                 "type": "fullart_scanning"
             },
             "encounter_number": "33",
@@ -8332,7 +8305,6 @@
                 "classes": [
                     "neutral"
                 ],
-                "cost": "<dash>",
                 "illustration": "./images/edited_images/k9 soft-h.jpg",
                 "illustration_pan_x": -20.0,
                 "illustration_pan_y": 127.0,
@@ -8351,7 +8323,7 @@
                     "double_slash",
                     "hourglass"
                 ],
-                "illustration": "./images/edited_images/scanningBack.png",
+                "illustration": "./images/scanningBack.png",
                 "type": "fullart_scanning"
             },
             "encounter_number": "36",
@@ -8366,7 +8338,6 @@
                 "classes": [
                     "neutral"
                 ],
-                "cost": "<dash>",
                 "illustration": "./images/edited_images/forcefield.jpg",
                 "illustration_pan_x": -225.0,
                 "illustration_pan_y": -36.0,
@@ -8386,7 +8357,7 @@
                     "double_slash",
                     "diamond"
                 ],
-                "illustration": "./images/edited_images/scanningBack.png",
+                "illustration": "./images/scanningBack.png",
                 "type": "fullart_scanning"
             },
             "encounter_number": "37",
@@ -8401,7 +8372,6 @@
                 "classes": [
                     "neutral"
                 ],
-                "cost": "<dash>",
                 "illustration": "./images/edited_images/stasis cube.jpg",
                 "illustration_pan_x": -9.0,
                 "illustration_pan_y": 148.0,
@@ -8421,7 +8391,7 @@
                     "square",
                     "quote"
                 ],
-                "illustration": "./images/edited_images/scanningBack.png",
+                "illustration": "./images/scanningBack.png",
                 "type": "fullart_scanning"
             },
             "encounter_number": "38",
@@ -8436,7 +8406,6 @@
                 "classes": [
                     "neutral"
                 ],
-                "cost": "<dash>",
                 "illustration": "./images/edited_images/Alienartefact yoogyart.jpg",
                 "illustration_pan_x": 9.0,
                 "illustration_pan_y": -426.0,
@@ -8457,7 +8426,7 @@
                     "clover",
                     "hourglass"
                 ],
-                "illustration": "./images/edited_images/scanningBack.png",
+                "illustration": "./images/scanningBack.png",
                 "type": "fullart_scanning"
             },
             "encounter_number": "39",
@@ -9299,7 +9268,7 @@
                 "flavor_text": "To say that the theatre is in disarray would be a profound understatement. The walls and seats, previously polished to a shine, are cracked and caked with dirt. The curtains are tattered, and the set is stained with old blood. You aren't sure what's worse: the smell of rot or the nagging feeling that you've been asleep for a very long time.",
                 "illustration": "./images/Replacements Carcosa and Core/AHLCG_FAA_Carcosa_location_merge_geman_v08_art_only_1.png",
                 "illustration_pan_x": -20.0,
-                "illustration_pan_y": -185.0,
+                "illustration_pan_y": -109.0,
                 "illustrator": "Illus. Mark Molnar",
                 "shroud": "2",
                 "type": "location"
@@ -9308,6 +9277,8 @@
                 "collection_icon": "<image color=\"inverted\" src=\"./images/edited_images/Carcosa.svg\">",
                 "flavor_text": "<valign>Must have been one hell of an intermission.",
                 "illustration": "./images/Replacements Carcosa and Core/AHLCG_FAA_Carcosa_location_merge_geman_v08_art_only_1.png",
+                "illustration_pan_x": -20.0,
+                "illustration_pan_y": -109.0,
                 "illustrator": "Illus. Mark Molnar",
                 "type": "fullart_location_back"
             },
@@ -9396,7 +9367,7 @@
                 ],
                 "illustration": "./images/Replacements Carcosa and Core/AHLCG_FAA_Carcosa_location_merge_geman_v08_art_only_8.png",
                 "illustration_pan_x": 7.0,
-                "illustration_pan_y": -204.0,
+                "illustration_pan_y": -47.0,
                 "illustration_scale": 2.06,
                 "illustrator": "Illus. Mark Molnar",
                 "shroud": "3",
@@ -9406,6 +9377,7 @@
             "back": {
                 "collection_icon": "<image color=\"inverted\" src=\"./images/edited_images/Carcosa.svg\">",
                 "flavor_text": "<valign>The set is different from what you remember of the play\u2019s first act, decorated with a backdrop of an unsettling sunset.",
+                "illustration_pan_y": -47.0,
                 "illustration_scale": 2.06,
                 "illustrator": "Illus. Mark Molnar",
                 "type": "fullart_location_back"
@@ -9442,7 +9414,8 @@
                 "collection_icon": "<image color=\"inverted\" src=\"./images/edited_images/Carcosa.svg\">",
                 "flavor_text": "<valign>An ornate wooden door leads into one of the front areas of the theatre.",
                 "illustration": "./images/Replacements Carcosa and Core/AHLCG_FAA_Carcosa_location_merge_geman_v08_art_only_20.png",
-                "illustration_pan_x": 0.0,
+                "illustration_pan_x": 13.0,
+                "illustration_pan_y": -113.0,
                 "illustrator": "Illus. Yoann Boissonnet",
                 "type": "fullart_location_back"
             },
@@ -9477,6 +9450,8 @@
                 "collection_icon": "<image color=\"inverted\" src=\"./images/edited_images/Carcosa.svg\">",
                 "flavor_text": "<valign>An ornate wooden door leads into one of the front areas of the theatre.",
                 "illustration": "./images/Replacements Carcosa and Core/AHLCG_FAA_Carcosa_location_merge_geman_v08_art_only_20.png",
+                "illustration_pan_x": 13.0,
+                "illustration_pan_y": -113.0,
                 "illustrator": "Illus. Yoann Boissonnet",
                 "type": "fullart_location_back"
             },
@@ -9546,6 +9521,8 @@
                 "collection_icon": "<image color=\"inverted\" src=\"./images/edited_images/Carcosa.svg\">",
                 "flavor_text": "<valign>A simple wooden door leads into the back of the theatre, far from the prying eyes of patrons.",
                 "illustration": "./images/Replacements Carcosa and Core/AHLCG_FAA_Carcosa_location_merge_geman_v08_art_only_20.png",
+                "illustration_pan_x": 13.0,
+                "illustration_pan_y": -113.0,
                 "illustrator": "Illus. Yoann Boissonnet",
                 "type": "fullart_location_back"
             },
@@ -9581,6 +9558,8 @@
                 "collection_icon": "<image color=\"inverted\" src=\"./images/edited_images/Carcosa.svg\">",
                 "flavor_text": "<valign>A simple wooden door leads into the back of the theatre, far from the prying eyes of patrons.",
                 "illustration": "./images/Replacements Carcosa and Core/AHLCG_FAA_Carcosa_location_merge_geman_v08_art_only_20.png",
+                "illustration_pan_x": 13.0,
+                "illustration_pan_y": -113.0,
                 "illustrator": "Illus. Yoann Boissonnet",
                 "type": "fullart_location_back"
             },
@@ -9616,6 +9595,8 @@
                 "collection_icon": "<image color=\"inverted\" src=\"./images/edited_images/Carcosa.svg\">",
                 "flavor_text": "<valign>A simple wooden door leads into the back of the theatre, far from the prying eyes of patrons.",
                 "illustration": "./images/Replacements Carcosa and Core/AHLCG_FAA_Carcosa_location_merge_geman_v08_art_only_20.png",
+                "illustration_pan_x": 13.0,
+                "illustration_pan_y": -113.0,
                 "illustrator": "Illus. Yoann Boissonnet",
                 "traits": "Privat.",
                 "type": "fullart_location_back"
@@ -9725,8 +9706,8 @@
                 "collection_number": "85",
                 "flavor_text": "She froze, and her throat clenched. Her eyes began to water. Her vision spiraled and blurred. Then, at long last, she finally understood.",
                 "illustration": "./images/Replacements Carcosa and Core/AHLCG_FAA_Carcosa Dark Matter_enemy_treachery_geman_v08_art_only_9.png",
-                "illustration_pan_x": -59.0,
-                "illustration_pan_y": -353.0,
+                "illustration_pan_x": 94.0,
+                "illustration_pan_y": -239.0,
                 "illustration_scale": 2.0,
                 "illustrator": "Illus. Magali Villeneuve",
                 "text": "Surge.\n<rev>\u00a0If you have at least 3 horror on you, lose 1 action.",
@@ -10026,6 +10007,61 @@
             "id": "9a89917a-ef9e-45d6-929c-6dc5f6f02010",
             "icon": "./images/The Tatterdemalion.png",
             "meta": {
+                "location_active_layout": "cca59b74-909c-4804-bfd0-67a6e140bf98",
+                "location_layouts": [
+                    {
+                        "name": "Anordnung 1",
+                        "id": "cca59b74-909c-4804-bfd0-67a6e140bf98",
+                        "fixed_length_arrows": false,
+                        "hide_mode": false,
+                        "nodes": {
+                            "124d387b-f389-4f94-8b14-8036b516611d_front": {
+                                "flipped": false,
+                                "hidden": false,
+                                "x": 200.0,
+                                "y": 0.0
+                            },
+                            "292d677f-3f7c-402d-b721-44096d679baf_front": {
+                                "flipped": false,
+                                "hidden": false,
+                                "x": 400.0,
+                                "y": 228.0
+                            },
+                            "3187cde0-a49d-457d-9524-1f733259b197_front": {
+                                "flipped": false,
+                                "hidden": false,
+                                "x": 0.0,
+                                "y": 456.0
+                            },
+                            "4a321229-3925-4775-98c1-7393cfe650c1_front": {
+                                "flipped": false,
+                                "hidden": false,
+                                "x": 400.0,
+                                "y": 0.0
+                            },
+                            "57d2aecd-7aae-422c-b958-5847b7504acb_front": {
+                                "flipped": false,
+                                "hidden": false,
+                                "x": 0.0,
+                                "y": 228.0
+                            },
+                            "cf8f36ce-4e49-46aa-91ac-c12cb65fe2da_front": {
+                                "flipped": false,
+                                "hidden": false,
+                                "x": 200.0,
+                                "y": 456.0
+                            },
+                            "ee173399-bbae-45d6-9bcd-f08bb3878376_front": {
+                                "flipped": false,
+                                "hidden": false,
+                                "x": 200.0,
+                                "y": 228.0
+                            }
+                        },
+                        "show_arrows": true,
+                        "snap_enabled": false
+                    }
+                ],
                 "tts": {}
             },
             "card_amount": 40,
@@ -10157,6 +10193,85 @@
             "id": "a3193336-a0df-450c-b50e-0d5af119f3b9",
             "icon": "C:/Users/cdpog/Documents/GitHub/darkMatter/images/Starfall.png",
             "meta": {
+                "location_active_layout": "2317b510-5787-4297-8953-14cdeda2583b",
+                "location_layouts": [
+                    {
+                        "name": "Anordnung 1",
+                        "id": "2317b510-5787-4297-8953-14cdeda2583b",
+                        "fixed_length_arrows": false,
+                        "hide_mode": false,
+                        "nodes": {
+                            "3018031a-384b-46f5-952f-46d56e42138e_front": {
+                                "flipped": false,
+                                "hidden": false,
+                                "x": 400.0,
+                                "y": 456.0
+                            },
+                            "3234eba0-46a2-4ff1-ac71-9cdd40ccdd7d_front": {
+                                "flipped": false,
+                                "hidden": false,
+                                "x": 600.0,
+                                "y": 456.0
+                            },
+                            "4985bec1-5032-4731-b55b-6a08174ed407_front": {
+                                "flipped": false,
+                                "hidden": false,
+                                "x": 400.0,
+                                "y": 0.0
+                            },
+                            "4d3bc095-eabe-4577-bf82-23034a8bc641_front": {
+                                "flipped": false,
+                                "hidden": false,
+                                "x": 400.0,
+                                "y": 228.0
+                            },
+                            "533eefb3-2098-4cc2-a98c-4b9183ba81e4_front": {
+                                "flipped": false,
+                                "hidden": false,
+                                "x": 200.0,
+                                "y": 456.0
+                            },
+                            "610801c6-7075-410c-a18c-28c287c94926_front": {
+                                "flipped": false,
+                                "hidden": false,
+                                "x": 600.0,
+                                "y": 228.0
+                            },
+                            "71d0e386-6a17-4a13-9afd-1df16e493ec3_front": {
+                                "flipped": false,
+                                "hidden": false,
+                                "x": 600.0,
+                                "y": 0.0
+                            },
+                            "7cc8c63e-cef0-4a24-bae0-7864eaa91700_front": {
+                                "flipped": false,
+                                "hidden": false,
+                                "x": 0.0,
+                                "y": 228.0
+                            },
+                            "9f3e4397-739b-4fad-974d-47c05a23e831_front": {
+                                "flipped": false,
+                                "hidden": false,
+                                "x": 200.0,
+                                "y": 228.0
+                            },
+                            "d29a066a-3564-4ede-a33b-584a5add5b80_front": {
+                                "flipped": false,
+                                "hidden": false,
+                                "x": 200.0,
+                                "y": 0.0
+                            },
+                            "d6a3bd75-54ed-41aa-bddb-87182374f603_front": {
+                                "flipped": false,
+                                "hidden": false,
+                                "x": 0.0,
+                                "y": 456.0
+                            }
+                        },
+                        "show_arrows": true,
+                        "snap_enabled": false
+                    }
+                ],
                 "tts": {}
             },
             "card_amount": 53,
@@ -10245,8 +10360,20 @@
         {
             "name": "Future Technology",
             "id": "ac1147f3-f651-4436-b2e1-830ad8fe2d91",
-            "icon": "./images/edited_images/flask.png",
+            "icon": "C:/Users/cdpog/Documents/GitHub/darkMatter/images/Flask.png",
             "meta": {
+                "location_active_layout": "58bf37d1-24d6-452c-a983-3632defe2c03",
+                "location_layouts": [
+                    {
+                        "name": "Anordnung 1",
+                        "id": "58bf37d1-24d6-452c-a983-3632defe2c03",
+                        "fixed_length_arrows": false,
+                        "hide_mode": false,
+                        "nodes": {},
+                        "show_arrows": true,
+                        "snap_enabled": false
+                    }
+                ],
                 "tts": {}
             },
             "cards": [],
@@ -10256,7 +10383,7 @@
         {
             "name": "Discoveries in Space",
             "id": "33387e63-1376-4315-90ca-b3480de1dce4",
-            "icon": "./images/edited_images/return_to_curtain_call (1).svg",
+            "icon": "C:/Users/cdpog/Documents/GitHub/darkMatter/images/atom_001.jpg",
             "meta": {
                 "location_graph": {
                     "0d81db58-6592-49c8-95fc-53469c42c8e6_front": {
