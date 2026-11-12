@@ -286,6 +286,7 @@
             "front": {
                 "name": "<name>",
                 "flavor_text": "",
+                "illustrator": "Illus. Unbekannt",
                 "text": "<rev>  Bringe <name> in deiner Bedrohungszone ins Spiel.\nAls zusätzliche Kosten um zu scannen musst du Karten oben vom Begegnungsdeck ablegen, bis eine <i><b>KI</b></i>-Karte abgelegt wurde. Ziehe jene Karte.\n<for>  Am Ende deines Zuges: Lege eine <agi>-<br>Probe (3) ab. Falls die Probe gelingt, lege <name> ab.\n",
                 "traits": "KI."
             }
@@ -295,6 +296,7 @@
             "front": {
                 "name": "<name>",
                 "flavor_text": "",
+                "illustrator": "Illus. Unbekannt",
                 "text": "<rev> Bringe diese Karte neben dem Agendadeck ins Spiel.\n<for> Nachdem du einen oder mehrere Orte umgedreht hast: Nimm 1 Horror.\n<act>: Lege eine <wil>- oder <agi>-Probe (3) ab. Falls die Probe gelingt, lege <name> ab.",
                 "traits": "Schrecken."
             }
@@ -337,7 +339,6 @@
             "front": {
                 "name": "<name>",
                 "flavor_text": "Die Sonne wird mit jedem Tag heißer… vielleicht hast du nicht genug Zeit, um alle zu retten. 2C-OES187 hat bereits die Flugrouten zu den drei größten Bevölkerungszentren im Sonnensystem berechnet, aber du musst entscheiden, wem du zuerst helfen willst.",
-                "illustration": "./images/edited_images/0_sun.jpg",
                 "text": "<free>: Streiche während einer Fertigkeitsprobe 1 deiner „Erinnerungen“ durch: Senke die Schwierigkeit dieser Probe um 1."
             },
             "back": {
@@ -641,6 +642,7 @@
             "front": {
                 "name": "<name>",
                 "flavor_text": "",
+                "illustrator": "Illus. Unbekannt",
                 "text": "<free>: Die Ermittler an diesem Ort streichen als Gruppe 1<per_large> ihrer „Erinnerungen“ durch: Drehe einen beliebigen <t>Höhle</t>- oder <t>Carcosa</t>-Ort auf seine andere Seite.",
                 "traits": "Höhle."
             },
@@ -783,6 +785,7 @@
             "front": {
                 "name": "<name>",
                 "flavor_text": "Tische und Stühle schweben durch den ganzen Raum. Die Simulation wurde beschädigt.",
+                "illustrator": "Illus. Unbekannt",
                 "text": "<reaction> Nachdem die Eingangshalle mit einem anderen Ort getauscht wurde, falls du dich in der Eingangshalle befindest: Ziehe 1 Karte und erhalte 1 Ressource. (Nur einmal pro Runde für die ganze Gruppe.)",
                 "traits": "Schule."
             },
@@ -892,7 +895,6 @@
             "front": {
                 "name": "<name>",
                 "flavor_text": "Tassilda von ihrem Thron zu zwingen hat die bevorstehende Supernova nur verzögert und ihre Aufmerksamkeit auf die Kolonien gelenkt. Sie will die Zerstörung des Sonnensystems in ihre eigenen Hände nehmen. Du musst sie aufhalten, bevor der Wahnsinn alles verschlingt!",
-                "illustration": "./images/edited_images/0_sun.jpg",
                 "text": "<for> Wenn 3 oder mehr Horror auf einem Ort liegen: Entferne jenen Ort aus dem Spiel. Alle Ermittler an jenem Ort sind besiegt. Alle Gegner an jenem Ort bewegen sich an den Ort mit den meisten Hinweisen.\n<for> Wenn alle Ermittler aufgegeben haben oder besiegt wurden: Rücke vor."
             },
             "back": {
@@ -966,6 +968,7 @@
             "front": {
                 "name": "<name>",
                 "flavor_text": "Hier gibt es eine Menge Geräte und Kontrollelemente. Du wirst einige Zeit brauchen, bis du sie lesen kannst.",
+                "illustrator": "Illus. Unbekannt",
                 "text": "<for> Nachdem du an diesem Ort gescannt hast, falls sich keine Hinweise an diesem Ort befinden: Platziere 1<per_large> Hinweise aus dem Markervorrat auf diesen Ort.",
                 "traits": "Tatterdemalion. Zugangspunkt."
             },
@@ -1674,7 +1677,6 @@
             "front": {
                 "name": "<name>",
                 "flavor_text": "Endlich ist die Zeit gekommen, dich deiner Vergangenheit zu stellen. Du musst den Kultisten in dir überwinden, um den Standort von Tassildas Palast herauszufinden.",
-                "illustration_pan_x": -258.0,
                 "text": "<for> Sobald ein Ermittler besiegt wird, falls sich eine Kopie von Dein anderes Selbst in der Bedrohungszone jenes Ermittlers befindet: Jene Kopie von Dein anderes Selbst ist ebenfalls besiegt.\n<obj> Wenn sich keine Kopie von Dein anderes Selbst im Spiel befindet und mindestens 1 Ermittler unbesiegt ist, rücke vor."
             },
             "back": {
@@ -1852,6 +1854,7 @@
             "front": {
                 "name": "<name>",
                 "flavor_text": "Wer bin ich?",
+                "illustrator": "Illus. Unbekannt",
                 "text": "<rev> Lege eine <agi>-Probe (6) ab. Diese Probe bekommt -1 Schwierigkeit für jede deiner „Erinnerungen“. Falls die Probe misslingt, nimmst du entweder 2 Schaden oder verlierst 2 Ressourcen.",
                 "traits": "Virtuell. Schrecken."
             }
@@ -2260,6 +2263,7 @@
             "back": {
                 "name": "Undefinierter Raum",
                 "flavor_text": "<valign>In den leeren Gängen hallt jedes deiner Geräusche wider und kündigt den Schrecken, die hier lauern, dein Kommen an. Du bist in diesem riesigen Puzzle verloren.",
+                "illustration_scale": 1.032,
                 "text": "",
                 "traits": "Schule."
             }
@@ -2542,6 +2546,7 @@
             "front": {
                 "name": "<name>",
                 "flavor_text": "Stalagmiten und Stalaktiten ziehen sich durch diese riesige und sehr gefährliche unterirdische Höhle.",
+                "illustrator": "Illus. Unbekannt",
                 "text": "<for>: Am Ende deines Zuges, falls du dich an diesem Ort befindest: Nimm 1 Schaden.",
                 "traits": "Höhle."
             },
@@ -2630,6 +2635,7 @@
             "front": {
                 "name": "<name>",
                 "flavor_text": "",
+                "illustrator": "Illus. Unbekannt",
                 "subtitle": "Wo die Kultisten verschwanden",
                 "text": "Du kannst die <name> nicht von verbundenen Orten aus betreten.\n<free>: Falls sich keine <t>Carcosa</t>-Orte im Spiel befinden und jeder unbesiegte Ermittler in der Unzugänglichen Schlucht ist: Lies die beiseitegelegte Handlungskarte „Die verlorene Expedition“. (Max. einmal pro Spiel.)",
                 "traits": "Höhle.",
@@ -2765,6 +2771,7 @@
             "front": {
                 "name": "<name>",
                 "flavor_text": "Unnatürlich kalte Luft zieht durch den Hohlraum und lässt dich bis auf die Knochen frieren.",
+                "illustrator": "Illus. Unbekannt",
                 "text": "Der Schleierwert des Gefrorenen Hohlraums wird für jeden verbundenen <t>Höhle</t>-Ort um 1 gesenkt.",
                 "traits": "Höhle."
             },
@@ -2778,6 +2785,7 @@
             "front": {
                 "name": "<name>",
                 "flavor_text": "",
+                "illustrator": "Illus. Unbekannt",
                 "text": "<spawn> Beliebiger <t>Mars</t>-Ort.\nGewaltig.\n<reaction> Sobald du der Marsianischen Krabbe erfolgreich entkommst, gib 1 Hinweis aus: Füge der Marsianischen Krabbe 2 Schaden zu, anstatt sie zu erschöpfen.",
                 "traits": "Kreatur.",
                 "victory": "Sieg 1."
@@ -2837,6 +2845,7 @@
             "front": {
                 "name": "<name>",
                 "flavor_text": "",
+                "illustrator": "Illus. Unbekannt",
                 "text": "X ist die Anzahl der verbundenen Orte.\n<act> Falls sich keine Hinweise an diesem Ort befinden: Tausche die <name> mit einem beliebigen anderen <t>Schule</t>-Ort und platziere 1<per_large> Hinweise aus dem Markervorrat auf die <name>.",
                 "traits": "Schule.",
                 "victory": "Sieg 1."
@@ -2955,7 +2964,6 @@
             "front": {
                 "name": "<name>",
                 "flavor_text": "Sonnenstürme und radioaktive Emissionen sind viel häufiger als die erwarteten Fluktuationen. Trotz der immer gefährlicher werdenden Umgebung lässt du dich nicht von deiner Aufgabe abbringen, die Zukunft der Menschheit zu retten.",
-                "illustration": "./images/edited_images/0_sun.jpg",
                 "text": "<free>: Streiche während einer Fertigkeitsprobe 1 deiner „Erinnerungen“ durch: Senke die Schwierigkeit dieser Probe um 1."
             },
             "back": {
@@ -3133,6 +3141,7 @@
             "front": {
                 "name": "<name>",
                 "flavor_text": "",
+                "illustrator": "Illus. Unbekannt",
                 "text": "<rev> Bringe diese Karte in deiner Bedrohungszone ins Spiel.\n<for> Am Ende deines Zuges: Nimm\n2 Schaden und drehe deinen Ort um. Lege <name> ab.\n<act> Gib 2 Ressourcen aus: Lege <name> ab.",
                 "traits": "Gefahr."
             }
@@ -3467,6 +3476,7 @@
             "front": {
                 "name": "<name>",
                 "flavor_text": "Dieses verlassene Forschungsschiff treibt ziellos am Rand des Sonnensystems. Es gibt keine Anzeichen für Aktivitäten jeglicher Art an Bord.",
+                "illustrator": "Illus. Unbekannt",
                 "text": "<rev> Bringe diesen Ort ins Spiel.\nAls zusätzliche Kosten, um an diesem Ort zu scannen, musst du die oberste Karte des Begegnungsdecks<br> ziehen.",
                 "traits": "Raumschiff."
             },
@@ -3657,6 +3667,7 @@
             "front": {
                 "name": "Anachronisme",
                 "flavor_text": "\n„Granny Orne? Was machst du im Weltraum?“",
+                "illustrator": "Illus. Unbekannt",
                 "text": "<rev> Lege eine <wil>-Probe (3) ab. Für jeden Punkt, um den die Probe misslingt, musst du entweder 1 Horror nehmen oder eine Nicht-<br>Storyvorteilskarte, die du kontrollierst, ablegen.",
                 "traits": "Wahnsinn. Paradox."
             }
@@ -3717,7 +3728,8 @@
                 "text": "Als zusätzliche Kosten, um in der Kalten Ödnis zu scannen, musst du entweder 2 Ressourcen ausgeben, oder 2 Karten von deiner Hand wählen und ablegen."
             },
             "back": {
-                "name": "<name>"
+                "name": "<name>",
+                "illustration": "./images/scanningBack.png"
             }
         },
         "eb2c5619-1424-4900-9971-6320e8258b4e": {
@@ -3924,7 +3936,6 @@
             "front": {
                 "name": "<name>",
                 "flavor_text": "Du kneifst dich, um festzustellen, ob du das alles nur träumst. Tatsächlich fühlst du nichts. Es mag seltsam erscheinen, aber in deinen eigenen Verstand einzutauchen ist die einzige Möglichkeit, die Wahrheit zu erfahren.",
-                "illustration_pan_x": -258.0,
                 "text": "Als zusätzliche Kosten, um den Bereich hinter der Bühne zu betreten, müssen die Ermittler im Theater als Gruppe 2<per_large> Hinweise ausgeben.\n<obj> Nachdem der Bereich hinter der Bühne enthüllt wurde, rücke vor.\n"
             },
             "back": {
@@ -3979,6 +3990,7 @@
             "front": {
                 "name": "<name>",
                 "flavor_text": "",
+                "illustrator": "Illus. Unbekannt",
                 "text": "Wagnis. Verborgen.\n<rev> Füge diese Karte geheim deiner Hand hinzu.\n<for> Am Ende deines Zuges, falls sich mindestens 1 <t>KI</t>-Karte in deiner Bedrohungszone befindet: Nimm 2 Horror und lege <name> ab.\n<act><act>: Lege <name> ab.",
                 "traits": "Schrecken."
             }
@@ -4058,7 +4070,69 @@
             "name": "Interstellare Jäger"
         },
         "9a89917a-ef9e-45d6-929c-6dc5f6f02010": {
-            "name": "Die Tatterdemalion"
+            "name": "Die Tatterdemalion",
+            "meta": {
+                "location_layouts": [
+                    {
+                        "name": "Anordnung 1",
+                        "id": "cca59b74-909c-4804-bfd0-67a6e140bf98",
+                        "fixed_length_arrows": false,
+                        "hide_mode": false,
+                        "nodes": {
+                            "124d387b-f389-4f94-8b14-8036b516611d_front": {
+                                "flipped": false,
+                                "hidden": false,
+                                "x": 200.0,
+                                "y": 0.0
+                            },
+                            "22ea5204-e5a6-4c88-8001-9503799cb538_front": {
+                                "flipped": false,
+                                "hidden": false,
+                                "x": 200.0,
+                                "y": 0.0
+                            },
+                            "292d677f-3f7c-402d-b721-44096d679baf_front": {
+                                "flipped": false,
+                                "hidden": false,
+                                "x": 400.0,
+                                "y": 228.0
+                            },
+                            "3187cde0-a49d-457d-9524-1f733259b197_front": {
+                                "flipped": false,
+                                "hidden": false,
+                                "x": 0.0,
+                                "y": 456.0
+                            },
+                            "4a321229-3925-4775-98c1-7393cfe650c1_front": {
+                                "flipped": false,
+                                "hidden": false,
+                                "x": 400.0,
+                                "y": 0.0
+                            },
+                            "57d2aecd-7aae-422c-b958-5847b7504acb_front": {
+                                "flipped": false,
+                                "hidden": false,
+                                "x": 0.0,
+                                "y": 228.0
+                            },
+                            "cf8f36ce-4e49-46aa-91ac-c12cb65fe2da_front": {
+                                "flipped": false,
+                                "hidden": false,
+                                "x": 200.0,
+                                "y": 456.0
+                            },
+                            "ee173399-bbae-45d6-9bcd-f08bb3878376_front": {
+                                "flipped": false,
+                                "hidden": false,
+                                "x": 200.0,
+                                "y": 228.0
+                            }
+                        },
+                        "show_arrows": true,
+                        "snap_enabled": false
+                    }
+                ]
+            }
         },
         "a3193336-a0df-450c-b50e-0d5af119f3b9": {
             "name": "Sternenschauer"
@@ -4070,13 +4144,151 @@
             "name": "Rattenschwarm"
         },
         "cd6a55bc-745a-4db8-a9c1-0bdf14b6c56b": {
-            "name": "Fremdartige Monde"
+            "name": "Fremdartige Monde",
+            "meta": {
+                "location_active_layout": "c36c45ba-d793-4e97-8c64-96a5f4045562",
+                "location_layouts": [
+                    {
+                        "name": "Anordnung 1",
+                        "id": "c36c45ba-d793-4e97-8c64-96a5f4045562",
+                        "fixed_length_arrows": false,
+                        "hide_mode": false,
+                        "nodes": {
+                            "1427865f-13b7-4ec7-8811-93d476ac7b7b_front": {
+                                "flipped": false,
+                                "hidden": false,
+                                "x": 400.0,
+                                "y": 0.0
+                            },
+                            "14f666dd-2842-404c-a87e-abbbdfe73cbd_front": {
+                                "flipped": false,
+                                "hidden": false,
+                                "x": 600.0,
+                                "y": 0.0
+                            },
+                            "16748f43-e717-43ae-970c-d3e10baa582a_front": {
+                                "flipped": false,
+                                "hidden": false,
+                                "x": 400.0,
+                                "y": 228.0
+                            },
+                            "45d9c5b3-2e0e-4a88-a28b-344f2bf64442_front": {
+                                "flipped": false,
+                                "hidden": false,
+                                "x": 200.0,
+                                "y": 456.0
+                            },
+                            "64936fc4-c644-4f4e-8af3-f6bc3fc8f213_front": {
+                                "flipped": false,
+                                "hidden": false,
+                                "x": 600.0,
+                                "y": 228.0
+                            },
+                            "7f1c2df9-6c0b-48e9-86ae-cdea8f2f3dca_front": {
+                                "flipped": false,
+                                "hidden": false,
+                                "x": 200.0,
+                                "y": 228.0
+                            },
+                            "9b5664da-4cc3-410f-b806-f2a458f2cd62_front": {
+                                "flipped": false,
+                                "hidden": false,
+                                "x": 200.0,
+                                "y": 0.0
+                            },
+                            "a3bdab97-004c-44ac-b1b5-a88b65be909a_front": {
+                                "flipped": false,
+                                "hidden": false,
+                                "x": 0.0,
+                                "y": 228.0
+                            },
+                            "a4978ad4-7d96-489e-b2b6-e22a9f5e13e2_front": {
+                                "flipped": false,
+                                "hidden": false,
+                                "x": 600.0,
+                                "y": 456.0
+                            },
+                            "ad62fe1c-0afc-43ee-94ff-9e5ff0f7f419_front": {
+                                "flipped": false,
+                                "hidden": false,
+                                "x": 0.0,
+                                "y": 456.0
+                            },
+                            "b07b6acf-7762-457e-96da-6a3e9c2be7b7_front": {
+                                "flipped": false,
+                                "hidden": false,
+                                "x": 400.0,
+                                "y": 456.0
+                            }
+                        },
+                        "show_arrows": true,
+                        "snap_enabled": false
+                    }
+                ]
+            }
         },
         "e60b0554-920a-4c7d-8b9f-9a634e7c7ec7": {
             "name": "Unerträgliche Wahnvorstellungen"
         },
         "e9e196a6-d621-4204-98ae-896e91f2ad9a": {
-            "name": "Im Schatten der Erde"
+            "name": "Im Schatten der Erde",
+            "meta": {
+                "location_active_layout": "a7e05f50-813f-423d-9068-9b0567cfcb7f",
+                "location_layouts": [
+                    {
+                        "name": "Anordnung 1",
+                        "id": "a7e05f50-813f-423d-9068-9b0567cfcb7f",
+                        "fixed_length_arrows": false,
+                        "hide_mode": false,
+                        "nodes": {
+                            "249603c3-b707-40b7-8eaf-1a483402de0c_front": {
+                                "flipped": false,
+                                "hidden": false,
+                                "x": 200.0,
+                                "y": 0.0
+                            },
+                            "39d5e1ea-414a-4ad5-a729-2e574046ac27_front": {
+                                "flipped": false,
+                                "hidden": false,
+                                "x": 200.0,
+                                "y": 228.0
+                            },
+                            "4cad1ac3-2e39-4643-b886-39b3e173980c_front": {
+                                "flipped": false,
+                                "hidden": false,
+                                "x": 400.0,
+                                "y": 228.0
+                            },
+                            "623f2090-b3b8-4acd-91c0-461d1a17c1a0_front": {
+                                "flipped": false,
+                                "hidden": false,
+                                "x": 0.0,
+                                "y": 228.0
+                            },
+                            "957a0d72-8eaa-4ae7-8a8a-e9d7e85a4757_front": {
+                                "flipped": false,
+                                "hidden": false,
+                                "x": 400.0,
+                                "y": 0.0
+                            },
+                            "f1f31525-3a12-4bea-9d51-a5de6c2747b5_front": {
+                                "flipped": false,
+                                "hidden": false,
+                                "x": 0.0,
+                                "y": 456.0
+                            },
+                            "fdc3fdc0-d357-4ce5-b335-ca8fab0aa3d4_front": {
+                                "flipped": false,
+                                "hidden": false,
+                                "x": 200.0,
+                                "y": 456.0
+                            }
+                        },
+                        "show_arrows": true,
+                        "snap_enabled": false
+                    }
+                ]
+            }
         },
         "f4245623-a4c2-4b39-a73c-38df0d03609d": {
             "name": "Bruchstück von Carcosa"
