@@ -337,6 +337,7 @@
             "front": {
                 "name": "<name>",
                 "flavor_text": "Die Sonne wird mit jedem Tag heißer… vielleicht hast du nicht genug Zeit, um alle zu retten. 2C-OES187 hat bereits die Flugrouten zu den drei größten Bevölkerungszentren im Sonnensystem berechnet, aber du musst entscheiden, wem du zuerst helfen willst.",
+                "illustration": "./images/edited_images/0_sun.jpg",
                 "text": "<free>: Streiche während einer Fertigkeitsprobe 1 deiner „Erinnerungen“ durch: Senke die Schwierigkeit dieser Probe um 1."
             },
             "back": {
@@ -891,6 +892,7 @@
             "front": {
                 "name": "<name>",
                 "flavor_text": "Tassilda von ihrem Thron zu zwingen hat die bevorstehende Supernova nur verzögert und ihre Aufmerksamkeit auf die Kolonien gelenkt. Sie will die Zerstörung des Sonnensystems in ihre eigenen Hände nehmen. Du musst sie aufhalten, bevor der Wahnsinn alles verschlingt!",
+                "illustration": "./images/edited_images/0_sun.jpg",
                 "text": "<for> Wenn 3 oder mehr Horror auf einem Ort liegen: Entferne jenen Ort aus dem Spiel. Alle Ermittler an jenem Ort sind besiegt. Alle Gegner an jenem Ort bewegen sich an den Ort mit den meisten Hinweisen.\n<for> Wenn alle Ermittler aufgegeben haben oder besiegt wurden: Rücke vor."
             },
             "back": {
@@ -1672,6 +1674,7 @@
             "front": {
                 "name": "<name>",
                 "flavor_text": "Endlich ist die Zeit gekommen, dich deiner Vergangenheit zu stellen. Du musst den Kultisten in dir überwinden, um den Standort von Tassildas Palast herauszufinden.",
+                "illustration_pan_x": -258.0,
                 "text": "<for> Sobald ein Ermittler besiegt wird, falls sich eine Kopie von Dein anderes Selbst in der Bedrohungszone jenes Ermittlers befindet: Jene Kopie von Dein anderes Selbst ist ebenfalls besiegt.\n<obj> Wenn sich keine Kopie von Dein anderes Selbst im Spiel befindet und mindestens 1 Ermittler unbesiegt ist, rücke vor."
             },
             "back": {
@@ -2952,6 +2955,7 @@
             "front": {
                 "name": "<name>",
                 "flavor_text": "Sonnenstürme und radioaktive Emissionen sind viel häufiger als die erwarteten Fluktuationen. Trotz der immer gefährlicher werdenden Umgebung lässt du dich nicht von deiner Aufgabe abbringen, die Zukunft der Menschheit zu retten.",
+                "illustration": "./images/edited_images/0_sun.jpg",
                 "text": "<free>: Streiche während einer Fertigkeitsprobe 1 deiner „Erinnerungen“ durch: Senke die Schwierigkeit dieser Probe um 1."
             },
             "back": {
@@ -3920,6 +3924,7 @@
             "front": {
                 "name": "<name>",
                 "flavor_text": "Du kneifst dich, um festzustellen, ob du das alles nur träumst. Tatsächlich fühlst du nichts. Es mag seltsam erscheinen, aber in deinen eigenen Verstand einzutauchen ist die einzige Möglichkeit, die Wahrheit zu erfahren.",
+                "illustration_pan_x": -258.0,
                 "text": "Als zusätzliche Kosten, um den Bereich hinter der Bühne zu betreten, müssen die Ermittler im Theater als Gruppe 2<per_large> Hinweise ausgeben.\n<obj> Nachdem der Bereich hinter der Bühne enthüllt wurde, rücke vor.\n"
             },
             "back": {
