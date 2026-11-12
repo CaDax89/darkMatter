@@ -1,7 +1,7 @@
 {
-    "name": "Dark Matter (8)",
+    "name": "Dark Matter",
     "id": "23c19b61-2109-40c0-925e-b475ddb73564",
-    "icon": "C:/Users/cdpog/Documents/GitHub/darkMatter/images/Dark Matter.png",
+    "icon": "./images/Dark Matter.png",
     "meta": {
         "dirty": []
     },
@@ -5799,7 +5799,7 @@
                 "clues": "<dash>",
                 "flavor_text": "You pinch yourself to see if you are dreaming, and sure enough, your skin does not sting.  However strange it may be, delving into your mind is the only way to learn the truth of the matter.",
                 "illustration": "./images/edited_images/81f5d6d94060800c2177d4f11c2b98f2.jpg",
-                "illustration_pan_x": -258.0,
+                "illustration_pan_x": -285.0,
                 "illustration_pan_y": -206.0,
                 "illustration_scale": 2.8143,
                 "index": "1a",
@@ -5864,7 +5864,7 @@
                 "clues": "<dash>",
                 "flavor_text": "It is finally time to face your past. You must overcome the cultist within you to uncover the whereabouts of Tassilda's palace.",
                 "illustration": "./images/edited_images/81f5d6d94060800c2177d4f11c2b98f2.jpg",
-                "illustration_pan_x": -258.0,
+                "illustration_pan_x": -285.0,
                 "illustration_pan_y": -206.0,
                 "illustration_scale": 2.8143,
                 "index": "3a",
@@ -6879,7 +6879,7 @@
             "amount": 1,
             "project_number": 214,
             "front": {
-                "illustration": "C:/Users/cdpog/Documents/GitHub/darkMatter/images/echoes_von_tassilda_01.jpg",
+                "illustration": "./images/echoes_von_tassilda_01.jpg",
                 "illustration_pan_x": 115.0,
                 "illustration_pan_y": -149.0,
                 "illustration_scale": 0.9107,
@@ -6902,7 +6902,7 @@
             "amount": 1,
             "project_number": 215,
             "front": {
-                "illustration": "C:/Users/cdpog/Documents/GitHub/darkMatter/images/echoes_von_tassilda_02.jpg",
+                "illustration": "./images/echoes_von_tassilda_02.jpg",
                 "illustration_pan_x": 140.0,
                 "illustration_pan_y": -149.0,
                 "illustration_scale": 0.9107,
@@ -7196,10 +7196,10 @@
             "front": {
                 "doom": "12",
                 "flavor_text": "The sun is getting hotter every day... There might not be enough time to save everyone. K2-PS187 has preemptively plotted the trajectories to the three major population centers within the solar system, but you will have to decide which ones to prioritise saving.",
-                "illustration": "./images/edited_images/0_sun.jpg",
-                "illustration_pan_x": -531.0,
-                "illustration_pan_y": -30.0,
-                "illustration_scale": 1.25,
+                "illustration": "./images/edited_images/sun-space-hd-wallpaper.jpg",
+                "illustration_pan_x": -625.0,
+                "illustration_pan_y": -72.0,
+                "illustration_scale": 1.35,
                 "index": "1a",
                 "level": "None",
                 "text": "<free> During a skill test, cross out 1 tally mark next to your \"Memories\": Reduce the difficulty of this test by 1.",
@@ -7231,10 +7231,10 @@
             "front": {
                 "doom": "5",
                 "flavor_text": "Solar flares and radioactive emissions have been surging in frequency beyond expected fluctuations. Despite the increasingly dangerous environment, you carry on with your quest to save the future of humanity. ",
-                "illustration": "./images/edited_images/0_sun.jpg",
-                "illustration_pan_x": -531.0,
-                "illustration_pan_y": -30.0,
-                "illustration_scale": 1.25,
+                "illustration": "./images/edited_images/sun.jpg",
+                "illustration_pan_x": -625.0,
+                "illustration_pan_y": -72.0,
+                "illustration_scale": 1.35,
                 "index": "2a",
                 "level": "None",
                 "text": "<free> During a skill test, cross out 1 tally mark next to your \"Memories\": Reduce the difficulty of this test by 1.",
@@ -7258,9 +7258,9 @@
                 "doom": "6",
                 "flavor_text": "The end is nigh. The sun's core is decaying at an extraordinary rate. The billion years that humans once believed it had before the star sputters out and dies has been reduced to only a handful of months. There isn't much time left before your entire world is annihilated. ",
                 "illustration": "./images/edited_images/0_sun.jpg",
-                "illustration_pan_x": -531.0,
-                "illustration_pan_y": -30.0,
-                "illustration_scale": 1.25,
+                "illustration_pan_x": -625.0,
+                "illustration_pan_y": -72.0,
+                "illustration_scale": 1.35,
                 "index": "3a",
                 "level": "None",
                 "text": "<free> During a skill test, cross out 1 tally mark next to your \"Memories\": Reduce the difficulty of this test by 1.",
@@ -7287,10 +7287,10 @@
             "front": {
                 "doom": "<dash>",
                 "flavor_text": "Forcefully removing Tassilda from the throne only delayed the imminent supernova and brought her attention to the colonies. She has taken the destruction of the solar system into her own hands. You must stop her before her madness consumes all!",
-                "illustration": "./images/edited_images/0_sun.jpg",
-                "illustration_pan_x": -531.0,
-                "illustration_pan_y": -30.0,
-                "illustration_scale": 1.25,
+                "illustration": "./images/edited_images/sun.jpg",
+                "illustration_pan_x": -625.0,
+                "illustration_pan_y": -72.0,
+                "illustration_scale": 1.35,
                 "index": "1c",
                 "level": "None",
                 "text": "<for> When a location has 3 or more horror on it: Remove it from the game. Each investigator at that location is defeated. Move all enemies at that location to the location with the most clues.\n       <for> If each investigator has resigned or has been defeated, advance. <i>(Keep \n   adding doom to this agenda.)</i>\n\n",
@@ -10149,7 +10149,7 @@
         {
             "name": "Strange Moons",
             "id": "cd6a55bc-745a-4db8-a9c1-0bdf14b6c56b",
-            "icon": "C:/Users/cdpog/Documents/GitHub/darkMatter/images/Strange Moons.png",
+            "icon": "./images/Strange Moons.png",
             "meta": {
                 "tts": {}
             },
@@ -10181,7 +10181,7 @@
         {
             "name": "Fragment of Carcosa",
             "id": "f4245623-a4c2-4b39-a73c-38df0d03609d",
-            "icon": "C:/Users/cdpog/Documents/GitHub/darkMatter/images/Fragment of Carcosa.png",
+            "icon": "./images/Fragment of Carcosa.png",
             "meta": {
                 "tts": {}
             },
@@ -10191,7 +10191,7 @@
         {
             "name": "Starfall",
             "id": "a3193336-a0df-450c-b50e-0d5af119f3b9",
-            "icon": "C:/Users/cdpog/Documents/GitHub/darkMatter/images/Starfall.png",
+            "icon": "./images/Starfall.png",
             "meta": {
                 "location_active_layout": "2317b510-5787-4297-8953-14cdeda2583b",
                 "location_layouts": [
@@ -10280,7 +10280,7 @@
         {
             "name": "Anachronism",
             "id": "419f481a-a8c8-42f9-b156-de44ed9744a2",
-            "icon": "C:/Users/cdpog/Documents/GitHub/darkMatter/images/Anachronism.png",
+            "icon": "./images/Anachronism.png",
             "meta": {
                 "tts": {}
             },
@@ -10290,7 +10290,7 @@
         {
             "name": "Artificial Intelligence",
             "id": "33908696-cd4f-4c0f-9437-2480775bb974",
-            "icon": "C:/Users/cdpog/Documents/GitHub/darkMatter/images/Artificial Intelligence.png",
+            "icon": "./images/Artificial Intelligence.png",
             "meta": {
                 "tts": {}
             },
@@ -10300,7 +10300,7 @@
         {
             "name": "The Boogeyman",
             "id": "30c58f46-80f3-49d6-9197-22462f787280",
-            "icon": "C:/Users/cdpog/Documents/GitHub/darkMatter/images/The Boogeyman.png",
+            "icon": "./images/The Boogeyman.png",
             "meta": {
                 "tts": {}
             },
@@ -10310,7 +10310,7 @@
         {
             "name": "Dark Past",
             "id": "06635cfd-27a7-4a05-9983-c64504907725",
-            "icon": "C:/Users/cdpog/Documents/GitHub/darkMatter/images/Dark Past.png",
+            "icon": "./images/Dark Past.png",
             "meta": {
                 "tts": {}
             },
@@ -10320,7 +10320,7 @@
         {
             "name": "Deep Space",
             "id": "882c3820-bb7a-47b0-bc0e-0fc9c69d904e",
-            "icon": "C:/Users/cdpog/Documents/GitHub/darkMatter/images/Deep Space.png",
+            "icon": "./images/Deep Space.png",
             "meta": {
                 "tts": {}
             },
@@ -10330,7 +10330,7 @@
         {
             "name": "Endtimes",
             "id": "f7459a59-20e7-476c-b547-80e98446e299",
-            "icon": "C:/Users/cdpog/Documents/GitHub/darkMatter/images/Endtimes.png",
+            "icon": "./images/Endtimes.png",
             "meta": {
                 "tts": {}
             },
@@ -10340,7 +10340,7 @@
         {
             "name": "Hastur's Gaze",
             "id": "3fac3933-589a-4fdd-a6d0-f1cc2349f370",
-            "icon": "C:/Users/cdpog/Documents/GitHub/darkMatter/images/Hastur_s Gaze.png",
+            "icon": "./images/Hastur_s Gaze.png",
             "meta": {
                 "tts": {}
             },
@@ -10350,7 +10350,7 @@
         {
             "name": "Interstellar Predators",
             "id": "8f315147-2290-4fb3-a347-221dd6a34049",
-            "icon": "C:/Users/cdpog/Documents/GitHub/darkMatter/images/Interstellar Predators.png",
+            "icon": "./images/Interstellar Predators.png",
             "meta": {
                 "tts": {}
             },
@@ -10360,7 +10360,7 @@
         {
             "name": "Future Technology",
             "id": "ac1147f3-f651-4436-b2e1-830ad8fe2d91",
-            "icon": "C:/Users/cdpog/Documents/GitHub/darkMatter/images/Flask.png",
+            "icon": "./images/Flask.png",
             "meta": {
                 "location_active_layout": "58bf37d1-24d6-452c-a983-3632defe2c03",
                 "location_layouts": [
@@ -10383,7 +10383,7 @@
         {
             "name": "Discoveries in Space",
             "id": "33387e63-1376-4315-90ca-b3480de1dce4",
-            "icon": "C:/Users/cdpog/Documents/GitHub/darkMatter/images/atom_001.jpg",
+            "icon": "./images/atom_001.jpg",
             "meta": {
                 "location_graph": {
                     "0d81db58-6592-49c8-95fc-53469c42c8e6_front": {
@@ -10420,7 +10420,7 @@
         {
             "name": "Curtain Call",
             "id": "5f527d21-8110-4b71-aa99-d0e15cd9ca9f",
-            "icon": "C:/Users/cdpog/Documents/GitHub/darkMatter/images/curtain.png",
+            "icon": "./images/curtain.png",
             "meta": {
                 "location_active_layout": "afa6dba2-0f9d-4853-b6d6-368debced3d6",
                 "location_layouts": [
@@ -10504,7 +10504,7 @@
         {
             "name": "Delusions",
             "id": "4fb0482a-feda-4c9d-96a2-3ea2c801c8e0",
-            "icon": "C:/Users/cdpog/Documents/GitHub/darkMatter/images/delusions.png",
+            "icon": "./images/delusions.png",
             "meta": {
                 "tts": {}
             },
@@ -10515,7 +10515,7 @@
         {
             "name": "Rats",
             "id": "b246fd07-38bb-4326-b459-0b08be0fa282",
-            "icon": "C:/Users/cdpog/Documents/GitHub/darkMatter/images/rats.png",
+            "icon": "./images/rats.png",
             "meta": {
                 "tts": {}
             },
@@ -10526,7 +10526,7 @@
         {
             "name": "Maddening Delusions",
             "id": "e60b0554-920a-4c7d-8b9f-9a634e7c7ec7",
-            "icon": "C:/Users/cdpog/Documents/GitHub/darkMatter/images/maddening.png",
+            "icon": "./images/maddening.png",
             "meta": {
                 "tts": {}
             },
@@ -10537,7 +10537,7 @@
         {
             "name": "Inhabitants of Carcosa",
             "id": "13aafa01-0b60-4c98-b6e5-02d99485ecde",
-            "icon": "C:/Users/cdpog/Documents/GitHub/darkMatter/images/inhabitants.png",
+            "icon": "./images/inhabitants.png",
             "meta": {
                 "tts": {}
             },
@@ -10548,7 +10548,7 @@
         {
             "name": "Agents of Yog‑Sothoth",
             "id": "50658ed6-c84e-4498-be4e-1df4309d5bc9",
-            "icon": "C:/Users/cdpog/Documents/GitHub/darkMatter/images/agents.png",
+            "icon": "./images/agents.png",
             "meta": {
                 "tts": {}
             },
