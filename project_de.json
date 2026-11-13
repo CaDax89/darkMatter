@@ -286,6 +286,7 @@
             "front": {
                 "name": "<name>",
                 "flavor_text": "",
+                "illustrator": "Illus. Unbekannt",
                 "text": "<rev>  Bringe <name> in deiner Bedrohungszone ins Spiel.\nAls zusätzliche Kosten um zu scannen musst du Karten oben vom Begegnungsdeck ablegen, bis eine <i><b>KI</b></i>-Karte abgelegt wurde. Ziehe jene Karte.\n<for>  Am Ende deines Zuges: Lege eine <agi>-<br>Probe (3) ab. Falls die Probe gelingt, lege <name> ab.\n",
                 "traits": "KI."
             }
@@ -295,6 +296,7 @@
             "front": {
                 "name": "<name>",
                 "flavor_text": "",
+                "illustrator": "Illus. Unbekannt",
                 "text": "<rev> Bringe diese Karte neben dem Agendadeck ins Spiel.\n<for> Nachdem du einen oder mehrere Orte umgedreht hast: Nimm 1 Horror.\n<act>: Lege eine <wil>- oder <agi>-Probe (3) ab. Falls die Probe gelingt, lege <name> ab.",
                 "traits": "Schrecken."
             }
@@ -640,6 +642,7 @@
             "front": {
                 "name": "<name>",
                 "flavor_text": "",
+                "illustrator": "Illus. Unbekannt",
                 "text": "<free>: Die Ermittler an diesem Ort streichen als Gruppe 1<per_large> ihrer „Erinnerungen“ durch: Drehe einen beliebigen <t>Höhle</t>- oder <t>Carcosa</t>-Ort auf seine andere Seite.",
                 "traits": "Höhle."
             },
@@ -782,6 +785,7 @@
             "front": {
                 "name": "<name>",
                 "flavor_text": "Tische und Stühle schweben durch den ganzen Raum. Die Simulation wurde beschädigt.",
+                "illustrator": "Illus. Unbekannt",
                 "text": "<reaction> Nachdem die Eingangshalle mit einem anderen Ort getauscht wurde, falls du dich in der Eingangshalle befindest: Ziehe 1 Karte und erhalte 1 Ressource. (Nur einmal pro Runde für die ganze Gruppe.)",
                 "traits": "Schule."
             },
@@ -964,6 +968,7 @@
             "front": {
                 "name": "<name>",
                 "flavor_text": "Hier gibt es eine Menge Geräte und Kontrollelemente. Du wirst einige Zeit brauchen, bis du sie lesen kannst.",
+                "illustrator": "Illus. Unbekannt",
                 "text": "<for> Nachdem du an diesem Ort gescannt hast, falls sich keine Hinweise an diesem Ort befinden: Platziere 1<per_large> Hinweise aus dem Markervorrat auf diesen Ort.",
                 "traits": "Tatterdemalion. Zugangspunkt."
             },
@@ -1849,6 +1854,7 @@
             "front": {
                 "name": "<name>",
                 "flavor_text": "Wer bin ich?",
+                "illustrator": "Illus. Unbekannt",
                 "text": "<rev> Lege eine <agi>-Probe (6) ab. Diese Probe bekommt -1 Schwierigkeit für jede deiner „Erinnerungen“. Falls die Probe misslingt, nimmst du entweder 2 Schaden oder verlierst 2 Ressourcen.",
                 "traits": "Virtuell. Schrecken."
             }
@@ -2539,6 +2545,7 @@
             "front": {
                 "name": "<name>",
                 "flavor_text": "Stalagmiten und Stalaktiten ziehen sich durch diese riesige und sehr gefährliche unterirdische Höhle.",
+                "illustrator": "Illus. Unbekannt",
                 "text": "<for>: Am Ende deines Zuges, falls du dich an diesem Ort befindest: Nimm 1 Schaden.",
                 "traits": "Höhle."
             },
@@ -2627,6 +2634,7 @@
             "front": {
                 "name": "<name>",
                 "flavor_text": "",
+                "illustrator": "Illus. Unbekannt",
                 "subtitle": "Wo die Kultisten verschwanden",
                 "text": "Du kannst die <name> nicht von verbundenen Orten aus betreten.\n<free>: Falls sich keine <t>Carcosa</t>-Orte im Spiel befinden und jeder unbesiegte Ermittler in der Unzugänglichen Schlucht ist: Lies die beiseitegelegte Handlungskarte „Die verlorene Expedition“. (Max. einmal pro Spiel.)",
                 "traits": "Höhle.",
@@ -2762,6 +2770,7 @@
             "front": {
                 "name": "<name>",
                 "flavor_text": "Unnatürlich kalte Luft zieht durch den Hohlraum und lässt dich bis auf die Knochen frieren.",
+                "illustrator": "Illus. Unbekannt",
                 "text": "Der Schleierwert des Gefrorenen Hohlraums wird für jeden verbundenen <t>Höhle</t>-Ort um 1 gesenkt.",
                 "traits": "Höhle."
             },
@@ -2775,6 +2784,7 @@
             "front": {
                 "name": "<name>",
                 "flavor_text": "",
+                "illustrator": "Illus. Unbekannt",
                 "text": "<spawn> Beliebiger <t>Mars</t>-Ort.\nGewaltig.\n<reaction> Sobald du der Marsianischen Krabbe erfolgreich entkommst, gib 1 Hinweis aus: Füge der Marsianischen Krabbe 2 Schaden zu, anstatt sie zu erschöpfen.",
                 "traits": "Kreatur.",
                 "victory": "Sieg 1."
@@ -2834,6 +2844,7 @@
             "front": {
                 "name": "<name>",
                 "flavor_text": "",
+                "illustrator": "Illus. Unbekannt",
                 "text": "X ist die Anzahl der verbundenen Orte.\n<act> Falls sich keine Hinweise an diesem Ort befinden: Tausche die <name> mit einem beliebigen anderen <t>Schule</t>-Ort und platziere 1<per_large> Hinweise aus dem Markervorrat auf die <name>.",
                 "traits": "Schule.",
                 "victory": "Sieg 1."
@@ -3129,6 +3140,7 @@
             "front": {
                 "name": "<name>",
                 "flavor_text": "",
+                "illustrator": "Illus. Unbekannt",
                 "text": "<rev> Bringe diese Karte in deiner Bedrohungszone ins Spiel.\n<for> Am Ende deines Zuges: Nimm\n2 Schaden und drehe deinen Ort um. Lege <name> ab.\n<act> Gib 2 Ressourcen aus: Lege <name> ab.",
                 "traits": "Gefahr."
             }
@@ -3463,6 +3475,7 @@
             "front": {
                 "name": "<name>",
                 "flavor_text": "Dieses verlassene Forschungsschiff treibt ziellos am Rand des Sonnensystems. Es gibt keine Anzeichen für Aktivitäten jeglicher Art an Bord.",
+                "illustrator": "Illus. Unbekannt",
                 "text": "<rev> Bringe diesen Ort ins Spiel.\nAls zusätzliche Kosten, um an diesem Ort zu scannen, musst du die oberste Karte des Begegnungsdecks<br> ziehen.",
                 "traits": "Raumschiff."
             },
@@ -3651,8 +3664,8 @@
         "e4a38217-a26b-4e81-bad4-174eddbb3c63": {
             "name": "Anachronismus",
             "front": {
-                "name": "Anachronisme",
                 "flavor_text": "\n„Granny Orne? Was machst du im Weltraum?“",
+                "illustrator": "Illus. Unbekannt",
                 "text": "<rev> Lege eine <wil>-Probe (3) ab. Für jeden Punkt, um den die Probe misslingt, musst du entweder 1 Horror nehmen oder eine Nicht-<br>Storyvorteilskarte, die du kontrollierst, ablegen.",
                 "traits": "Wahnsinn. Paradox."
             }
@@ -3974,6 +3987,7 @@
             "front": {
                 "name": "<name>",
                 "flavor_text": "",
+                "illustrator": "Illus. Unbekannt",
                 "text": "Wagnis. Verborgen.\n<rev> Füge diese Karte geheim deiner Hand hinzu.\n<for> Am Ende deines Zuges, falls sich mindestens 1 <t>KI</t>-Karte in deiner Bedrohungszone befindet: Nimm 2 Horror und lege <name> ab.\n<act><act>: Lege <name> ab.",
                 "traits": "Schrecken."
             }
