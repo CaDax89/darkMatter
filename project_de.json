@@ -50,7 +50,7 @@
                 "name": "<unique> Haïta",
                 "flavor_text": "„In diesen Zeiten kauerte sich Haïta in seine Höhle und verbarg sein Gesicht hinter seinen Händen, und er betete, dass er allein für seine Sünden bestraft werden möge und die Welt vor der Zerstörung bewahrt bleibe.“",
                 "subtitle": "Der Hirtengott",
-                "text": "<size 55><spawn> Eingangstunnel.\nZurückhaltend. Zurückschlagen. Jäger.\n<for> Sobald du einem <t>Byakhee</t>-Gegner an Haïtas Ort entkommen würdest: Füge Haïta stattdessen 2 Schaden zu.",
+                "text": "Zurückhaltend. Zurückschlagen. Jäger.\n<spawn> Eingangstunnel.\n<for> Sobald du einem <t>Byakhee</t>-Gegner an Haïtas Ort entkommen würdest: Füge Haïta stattdessen 2 Schaden zu.",
                 "traits": "Abscheulichkeit. Humanoid. Elite.",
                 "victory": "Sieg 1."
             }
@@ -178,7 +178,7 @@
             "name": "Königlicher Sendbote",
             "front": {
                 "subtitle": "Bote von Aldebaran",
-                "text": "<prey> Niedrigster <willpower>-Wert.\nGewaltig. Jäger. Zurückschlagen.\n<for> Am Ende der Gegnerphase: Jeder Ermittler am Ort des Königlichen Sendboten oder einem verbundenen Ort nimmt 1 Horror.",
+                "text": "Gewaltig. Jäger. Zurückschlagen.\n<prey> Niedrigster <willpower>-Wert.\n<for> Am Ende der Gegnerphase: Jeder Ermittler am Ort des Königlichen Sendboten oder einem verbundenen Ort nimmt 1 Horror.",
                 "victory": "Sieg 2."
             }
         },
@@ -233,7 +233,7 @@
             "name": "Brut von Hali",
             "front": {
                 "name": "<name>",
-                "text": "<size 60><prey> Meister Horror.\nZurückschlagen.\n<for> Nachdem du Brut von Hali erfolgreich um 2 oder weniger entkommen bist: Nimm 1 Horror."
+                "text": "Zurückschlagen.\n<size 60><prey> Meister Horror.\n<for> Nachdem du Brut von Hali erfolgreich um 2 oder weniger entkommen bist: Nimm 1 Horror."
             }
         },
         "03502": {
@@ -351,7 +351,7 @@
             "front": {
                 "name": "<name>",
                 "flavor_text": "",
-                "text": "<spawn> Ort, der am weitesten von dir entfernt ist.\nJäger.\n<for> Sobald sich Virtuelles Byakhee zwischen zwei Orten bewegen würde, an denen sich keine Ermittler befinden: Tausche jene Orte stattdessen miteinander.",
+                "text": "Jäger.\n<spawn> Ort, der am weitesten von dir entfernt ist.\n<for> Sobald sich Virtuelles Byakhee zwischen zwei Orten bewegen würde, an denen sich keine Ermittler befinden: Tausche jene Orte stattdessen miteinander.",
                 "traits": "Virtuell. Monster. Byakhee."
             }
         },
@@ -846,7 +846,7 @@
                 "flavor_text": "<font \"./fonts/AgencyFB Bold Italic.ttf\">„ZIEL ERFASST“",
                 "name_unique": "<unique>",
                 "subtitle": "Unbemannter Laderoboter",
-                "text": "<spawn> Frachtraum.\nJäger.\nSolange ULR-A21 „Demhe“ sich bewegt oder Ermittler in einen Kampf verwickelt, ignoriert er alle Ermittler, in deren Bedrohungszone sich keine <t>KI</t>-Karte befindet.",
+                "text": "Jäger.\n<spawn> Frachtraum.\nSolange ULR-A21 „Demhe“ sich bewegt oder Ermittler in einen Kampf verwickelt, ignoriert er alle Ermittler, in deren Bedrohungszone sich keine <t>KI</t>-Karte befindet.",
                 "traits": "KI. Maschine. Elite.",
                 "victory": "Sieg 1."
             }
@@ -1042,7 +1042,7 @@
             "front": {
                 "name": "<name>",
                 "flavor_text": "",
-                "text": "<spawn> Eingangstunnel.\nJäger. Alarmiert.\n<for> Nachdem <name> angegriffen hat: Bewege es an den verbundenen Ort mit den wenigsten Ermittlern."
+                "text": "Jäger. Alarmiert.\n<spawn> Eingangstunnel.\n<for> Nachdem <name> angegriffen hat: Bewege es an den verbundenen Ort mit den wenigsten Ermittlern."
             }
         },
         "387c5bbd-c81a-415d-b6d7-de8dfc7788d0": {
@@ -1125,7 +1125,7 @@
             "front": {
                 "name": "<name>",
                 "flavor_text": "…und die Mitternacht erklang aus den verschwommenen Türmen der nebelumflorten Stadt.",
-                "text": "<spawn> Nächstgelegener <t>Carcosa</t>-<br>Ort.\nGewaltig.\nDieser Gegner greift während der Gegnerphase nicht an.",
+                "text": "Gewaltig.\n<spawn> Nächstgelegener <t>Carcosa</t>-<br>Ort.\nDieser Gegner greift während der Gegnerphase nicht an.",
                 "traits": "Hindernis."
             }
         },
@@ -2199,7 +2199,7 @@
                 "name": "<unique><name>",
                 "flavor_text": "Wer bist du?",
                 "subtitle": "Der, der entkam",
-                "text": "<prey> Nur der Ermittler mit den wenigsten „Erinnerungen“.\nJäger. Zurückschlagen.\n<for> Angriffe dieses Gegners fügen zusätzlich +1 Horror für jeweils 2 „Erinnerungen“ des angegriffenen Ermittlers zu.",
+                "text": "Jäger. Zurückschlagen.\n<prey> Nur der Ermittler mit den wenigsten „Erinnerungen“.\n<for> Angriffe dieses Gegners fügen zusätzlich +1 Horror für jeweils 2 „Erinnerungen“ des angegriffenen Ermittlers zu.",
                 "traits": "Abscheulichkeit. Spuk.",
                 "victory": "Sieg 1."
             }
@@ -2422,7 +2422,7 @@
             "front": {
                 "name": "<name>",
                 "flavor_text": "Eine außerirdische Drohne, die Fehler der Vergangenheit korrigiert.",
-                "text": "<spawn> Ort mit den meisten<br> Hinweisen.\nJäger.\n<for> Nachdem der <name> dich angegriffen hat: Ziehe eine verdeckte Begegnungskarte aus deiner Bedrohungszone.",
+                "text": "Jäger.\n<spawn> Ort mit den meisten Hinweisen.\n<for> Nachdem der <name> dich angegriffen hat: Ziehe eine verdeckte Begegnungskarte aus deiner Bedrohungszone.",
                 "traits": "Mi-Go. Maschine."
             }
         },
@@ -2810,7 +2810,7 @@
                 "name": "<name>",
                 "flavor_text": "",
                 "illustrator": "Illus. Unbekannt",
-                "text": "<spawn> Beliebiger <t>Mars</t>-Ort.\nGewaltig.\n<reaction> Sobald du der Marsianischen Krabbe erfolgreich entkommst, gib 1 Hinweis aus: Füge der Marsianischen Krabbe 2 Schaden zu, anstatt sie zu erschöpfen.",
+                "text": "Gewaltig.\n<spawn> Beliebiger <t>Mars</t>-Ort.\n<reaction> Sobald du der Marsianischen Krabbe erfolgreich entkommst, gib 1 Hinweis aus: Füge der Marsianischen Krabbe 2 Schaden zu, anstatt sie zu erschöpfen.",
                 "traits": "Kreatur.",
                 "victory": "Sieg 1."
             }
@@ -3149,7 +3149,7 @@
             "front": {
                 "name": "<name>",
                 "flavor_text": "",
-                "text": "<spawn> Eingangstunnel.\nPatrouille (nächstgelegener Ort, an den eine <i><b>Gehirn</b></i>-<br>Storyvorteilskarte angehängt ist).\n<for> Zu Beginn der Gegnerphase, falls <name> spielbereit ist: Es fügt jedem <t>Mi-Go</t>-Gegner und jeder <t>Gehirn</t>-Storyvorteilskarte an seinem Ort 2 Schaden zu."
+                "text": "Patrouille (nächstgelegener Ort, an den eine <i><b>Gehirn</b></i>-Storyvorteilskarte angehängt ist).\n<spawn> Eingangstunnel.\n<for> Zu Beginn der Gegnerphase, falls <name> spielbereit ist: Es fügt jedem <t>Mi-Go</t>-Gegner und jeder <t>Gehirn</t>-Storyvorteilskarte an seinem Ort 2 Schaden zu."
             }
         },
         "b75200fb-faec-4316-9c18-66c805bf6c3c": {
@@ -3479,7 +3479,7 @@
             "front": {
                 "name": "<name>",
                 "flavor_text": "",
-                "text": "<spawn> Neben dem Szenendeck. Der <name> befindet sich nicht an einem bestimmten Ort.\nGewaltig. Alarmiert. Zurückschlagen.\nDer <name> zählt als mit jedem Ermittler in einen Kampf verwickelt, der eine ungerade Anzahl an Karten auf der Hand hat.",
+                "text": "Gewaltig. Alarmiert. Zurückschlagen.\n<spawn> Neben dem Szenendeck. Der <name> befindet sich nicht an einem bestimmten Ort.\nDer <name> zählt als mit jedem Ermittler in einen Kampf verwickelt, der eine ungerade Anzahl an Karten auf der Hand hat.",
                 "traits": "Kreatur. Schwellenwesen. Elite.",
                 "victory": "Sieg 1."
             }
@@ -3536,7 +3536,7 @@
                 "name": "<unique><name>",
                 "flavor_text": "Der Dämon des Tales weiß nicht, warum die Wasser rot sind, noch wohin sie fließen.",
                 "subtitle": "Verschlinger der Erinnerungen",
-                "text": "<prey> Nur der Ermittler mit den meisten „Erinnerungen“.\nJäger. Alarmiert.\n<for> Sobald der Dämon von Nis dich angreift: Streiche 1 deiner „Erinnerungen“ durch.",
+                "text": "Jäger. Alarmiert.\n<prey> Nur der Ermittler mit den meisten „Erinnerungen“.\n<for> Sobald der Dämon von Nis dich angreift: Streiche 1 deiner „Erinnerungen“ durch.",
                 "traits": "Abscheulichkeit. Monster.",
                 "victory": "Sieg 1."
             }
@@ -3719,7 +3719,7 @@
                 "name": "<name>",
                 "flavor_text": "",
                 "name_unique": "<unique>",
-                "text": "<spawn> Beliebiger leerer Ort.\nZurückschlagen.\nX ist der Schleierwert vom Ort dieses Gegners.\n<for> Nachdem der Ort dieses Gegners mit einem anderen Ort getauscht wurde: Bewege diesen Gegner einmal in Richtung des nächst-<br>gelegenen Ermittlers.",
+                "text": "Zurückschlagen.\n<spawn> Beliebiger leerer Ort.\nX ist der Schleierwert vom Ort dieses Gegners.\n<for> Nachdem der Ort dieses Gegners mit einem anderen Ort getauscht wurde: Bewege diesen Gegner einmal in Richtung des nächst-<br>gelegenen Ermittlers.",
                 "traits": "Virtuell. Abscheulichkeit.",
                 "victory": "Sieg 1."
             }
@@ -3972,7 +3972,7 @@
             },
             "back": {
                 "name": "Der Fremde",
-                "text": "<spawn> Am weitesten von allen Ermittlern entfernter Ort.\nZurückhaltend. Jäger.\n<for> Am Ende deines Zuges, falls du dich am Ort des Fremden oder einem verbundenen Ort befindest: Handle die Erzwungen-Fähigkeiten aller Verborgen-Karten auf deiner Hand ab (ignoriere dabei die Bedingungen jener Fähigkeiten).\n\n",
+                "text": "Zurückhaltend. Jäger.\n<spawn> Am weitesten von allen Ermittlern entfernter Ort.\n<for> Am Ende deines Zuges, falls du dich am Ort des Fremden oder einem verbundenen Ort befindest: Handle die Erzwungen-Fähigkeiten aller Verborgen-Karten auf deiner Hand ab (ignoriere dabei die Bedingungen jener Fähigkeiten).\n\n",
                 "victory": "Sieg 1."
             }
         },
@@ -3989,7 +3989,7 @@
             "front": {
                 "name": "<name>",
                 "flavor_text": "Das ist kein Asteroid.",
-                "text": "<spawn> Beliebiger <t>Asteroidengürtel</t>-<br>Ort.\nJäger. Zurückschlagen.\n<for> Nachdem du diesen Gegner besiegt hast: Mische diesen Gegner in das Scan-Deck."
+                "text": "Jäger. Zurückschlagen.\n<spawn> Beliebiger <t>Asteroidengürtel</t>-<br>Ort.\n<for> Nachdem du diesen Gegner besiegt hast: Mische diesen Gegner in das Scan-Deck."
             }
         },
         "f7971251-8111-4cd2-968b-52b2fb2638eb": {
@@ -4014,7 +4014,7 @@
             "front": {
                 "name": "<name>",
                 "flavor_text": "Laut einer Theorie sind diese seltsamen außerirdischen Wesen mit dem galaktischen Magnetfeld verbunden. Dadurch sollen sie sich schneller als das Licht bewegen können.",
-                "text": "<spawn> Beliebiger Ort ohne Hinweise.\nJäger.\nSolange sich das <name> in der Gegnerphase bewegt, werden alle Orte ohne Hinweise behandelt, als ob sie miteinander verbunden wären."
+                "text": "Jäger.\n<spawn> Beliebiger Ort ohne Hinweise.\nSolange sich das <name> in der Gegnerphase bewegt, werden alle Orte ohne Hinweise behandelt, als ob sie miteinander verbunden wären."
             }
         },
         "fb39b07e-fc2c-47f3-be32-49e6eeca8015": {
